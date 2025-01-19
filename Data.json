@@ -10,14 +10,15 @@
                     "id": 1,
                     "name": "HTML",
                     "point1": "50",
-                    "point2": "0"
+                    "point2": "48",
+                    "done": "y"
                 },
                 {
                     "id": 2,
                     "name": "Javascript",
                     "point1": "50",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "48",
+                    "done": "y"
                 },
                 {
                     "id": 3,
@@ -30,8 +31,8 @@
                     "id": 4,
                     "name": "Kompüter Təhlükəsizliyi",
                     "point1": "48",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "48",
+                    "done": "y"
                 },
                 {
                     "id": 5,
@@ -73,15 +74,15 @@
                     "id": 1,
                     "name": "HTML",
                     "point1": "50",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "47",
+                    "done": "y"
                 },
                 {
                     "id": 2,
                     "name": "Javascript",
                     "point1": "45",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "40",
+                    "done": "y"
                 },
                 {
                     "id": 3,
@@ -94,8 +95,8 @@
                     "id": 4,
                     "name": "Kompüter Təhlükəsizliyi",
                     "point1": "45",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "43",
+                    "done": "y"
                 },
                 {
                     "id": 5,
@@ -136,16 +137,16 @@
                 {
                     "id": 1,
                     "name": "HTML",
-                    "point1": "50",
-                    "point2": "0",
-                    "done": "n"
+                    "point1": "48",
+                    "point2": "50",
+                    "done": "y"
                 },
                 {
                     "id": 2,
                     "name": "Javascript",
                     "point1": "45",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "40",
+                    "done": "y"
                 },
                 {
                     "id": 3,
@@ -158,8 +159,8 @@
                     "id": 4,
                     "name": "Kompüter Təhlükəsizliyi",
                     "point1": "45",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "46",
+                    "done": "y"
                 },
                 {
                     "id": 5,
@@ -178,7 +179,7 @@
                 {
                     "id": 7,
                     "name": "Estetika və Etika",
-                    "point1": "43",
+                    "point1": "45",
                     "point2": "0",
                     "done": "n"
                 },
@@ -201,15 +202,15 @@
                     "id": 1,
                     "name": "HTML",
                     "point1": "44",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "35",
+                    "done": "y"
                 },
                 {
                     "id": 2,
                     "name": "Javascript",
                     "point1": "38",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "31",
+                    "done": "y"
                 },
                 {
                     "id": 3,
@@ -222,8 +223,8 @@
                     "id": 4,
                     "name": "Kompüter Təhlükəsizliyi",
                     "point1": "44",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "35",
+                    "done": "y"
                 },
                 {
                     "id": 5,
@@ -265,15 +266,15 @@
                     "id": 1,
                     "name": "HTML",
                     "point1": "33",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "30",
+                    "done": "y"
                 },
                 {
                     "id": 2,
                     "name": "Javascript",
                     "point1": "32",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "19",
+                    "done": "y"
                 },
                 {
                     "id": 3,
@@ -286,8 +287,8 @@
                     "id": 4,
                     "name": "Kompüter Təhlükəsizliyi",
                     "point1": "30",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "26",
+                    "done": "y"
                 },
                 {
                     "id": 5,
@@ -329,15 +330,15 @@
                     "id": 1,
                     "name": "HTML",
                     "point1": "32",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "25",
+                    "done": "y"
                 },
                 {
                     "id": 2,
                     "name": "Javascript",
                     "point1": "30",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "19",
+                    "done": "y"
                 },
                 {
                     "id": 3,
@@ -350,8 +351,8 @@
                     "id": 4,
                     "name": "Kompüter Təhlükəsizliyi",
                     "point1": "31",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "24",
+                    "done": "y"
                 },
                 {
                     "id": 5,
@@ -393,15 +394,15 @@
                     "id": 1,
                     "name": "HTML",
                     "point1": "42",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "30",
+                    "done": "y"
                 },
                 {
                     "id": 2,
                     "name": "Javascript",
                     "point1": "35",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "36",
+                    "done": "y"
                 },
                 {
                     "id": 3,
@@ -414,8 +415,8 @@
                     "id": 4,
                     "name": "Kompüter Təhlükəsizliyi",
                     "point1": "35",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "25",
+                    "done": "y"
                 },
                 {
                     "id": 5,
@@ -457,15 +458,15 @@
                     "id": 1,
                     "name": "HTML",
                     "point1": "35",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "29",
+                    "done": "y"
                 },
                 {
                     "id": 2,
                     "name": "Javascript",
                     "point1": "34",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "34",
+                    "done": "y"
                 },
                 {
                     "id": 3,
@@ -478,8 +479,8 @@
                     "id": 4,
                     "name": "Kompüter Təhlükəsizliyi",
                     "point1": "36",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "33",
+                    "done": "y"
                 },
                 {
                     "id": 5,
@@ -521,15 +522,15 @@
                     "id": 1,
                     "name": "HTML",
                     "point1": "31",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "25",
+                    "done": "y"
                 },
                 {
                     "id": 2,
                     "name": "Javascript",
                     "point1": "32",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "29",
+                    "done": "y"
                 },
                 {
                     "id": 3,
@@ -542,8 +543,8 @@
                     "id": 4,
                     "name": "Kompüter Təhlükəsizliyi",
                     "point1": "33",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "24",
+                    "done": "y"
                 },
                 {
                     "id": 5,
@@ -585,15 +586,15 @@
                     "id": 1,
                     "name": "HTML",
                     "point1": "45",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "33",
+                    "done": "y"
                 },
                 {
                     "id": 2,
                     "name": "Javascript",
                     "point1": "38",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "29",
+                    "done": "y"
                 },
                 {
                     "id": 3,
@@ -606,8 +607,8 @@
                     "id": 4,
                     "name": "Kompüter Təhlükəsizliyi",
                     "point1": "37",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "40",
+                    "done": "y"
                 },
                 {
                     "id": 5,
@@ -649,15 +650,15 @@
                     "id": 1,
                     "name": "HTML",
                     "point1": "35",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "31",
+                    "done": "y"
                 },
                 {
                     "id": 2,
                     "name": "Javascript",
                     "point1": "36",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "24",
+                    "done": "y"
                 },
                 {
                     "id": 3,
@@ -670,8 +671,8 @@
                     "id": 4,
                     "name": "Kompüter Təhlükəsizliyi",
                     "point1": "33",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "28",
+                    "done": "y"
                 },
                 {
                     "id": 5,
@@ -713,15 +714,15 @@
                     "id": 1,
                     "name": "HTML",
                     "point1": "32",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "32",
+                    "done": "y"
                 },
                 {
                     "id": 2,
                     "name": "Javascript",
                     "point1": "32",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "21",
+                    "done": "y"
                 },
                 {
                     "id": 3,
@@ -734,8 +735,8 @@
                     "id": 4,
                     "name": "Kompüter Təhlükəsizliyi",
                     "point1": "34",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "23",
+                    "done": "y"
                 },
                 {
                     "id": 5,
@@ -777,15 +778,15 @@
                     "id": 1,
                     "name": "HTML",
                     "point1": "36",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "39",
+                    "done": "y"
                 },
                 {
                     "id": 2,
                     "name": "Javascript",
                     "point1": "38",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "29",
+                    "done": "y"
                 },
                 {
                     "id": 3,
@@ -798,8 +799,8 @@
                     "id": 4,
                     "name": "Kompüter Təhlükəsizliyi",
                     "point1": "37",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "38",
+                    "done": "y"
                 },
                 {
                     "id": 5,
@@ -841,15 +842,15 @@
                     "id": 1,
                     "name": "HTML",
                     "point1": "44",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "39",
+                    "done": "y"
                 },
                 {
                     "id": 2,
                     "name": "Javascript",
                     "point1": "44",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "40",
+                    "done": "y"
                 },
                 {
                     "id": 3,
@@ -862,8 +863,8 @@
                     "id": 4,
                     "name": "Kompüter Təhlükəsizliyi",
                     "point1": "46",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "41",
+                    "done": "y"
                 },
                 {
                     "id": 5,
@@ -905,15 +906,15 @@
                     "id": 1,
                     "name": "HTML",
                     "point1": "37",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "43",
+                    "done": "y"
                 },
                 {
                     "id": 2,
                     "name": "Javascript",
                     "point1": "39",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "28",
+                    "done": "y"
                 },
                 {
                     "id": 3,
@@ -926,8 +927,8 @@
                     "id": 4,
                     "name": "Kompüter Təhlükəsizliyi",
                     "point1": "39",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "34",
+                    "done": "y"
                 },
                 {
                     "id": 5,
@@ -969,15 +970,15 @@
                     "id": 1,
                     "name": "HTML",
                     "point1": "32",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "27",
+                    "done": "y"
                 },
                 {
                     "id": 2,
                     "name": "Javascript",
                     "point1": "32",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "21",
+                    "done": "y"
                 },
                 {
                     "id": 3,
@@ -990,8 +991,8 @@
                     "id": 4,
                     "name": "Kompüter Təhlükəsizliyi",
                     "point1": "33",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "23",
+                    "done": "y"
                 },
                 {
                     "id": 5,
@@ -1033,15 +1034,15 @@
                     "id": 1,
                     "name": "HTML",
                     "point1": "41",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "38",
+                    "done": "y"
                 },
                 {
                     "id": 2,
                     "name": "Javascript",
                     "point1": "32",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "22",
+                    "done": "y"
                 },
                 {
                     "id": 3,
@@ -1054,8 +1055,8 @@
                     "id": 4,
                     "name": "Kompüter Təhlükəsizliyi",
                     "point1": "35",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "26",
+                    "done": "y"
                 },
                 {
                     "id": 5,
@@ -1097,15 +1098,15 @@
                     "id": 1,
                     "name": "HTML",
                     "point1": "31",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "28",
+                    "done": "y"
                 },
                 {
                     "id": 2,
                     "name": "Javascript",
                     "point1": "32",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "19",
+                    "done": "y"
                 },
                 {
                     "id": 3,
@@ -1118,8 +1119,8 @@
                     "id": 4,
                     "name": "Kompüter Təhlükəsizliyi",
                     "point1": "30",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "24",
+                    "done": "y"
                 },
                 {
                     "id": 5,
@@ -1168,8 +1169,8 @@
                     "id": 2,
                     "name": "Javascript",
                     "point1": "32",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "19",
+                    "done": "y"
                 },
                 {
                     "id": 3,
@@ -1182,8 +1183,8 @@
                     "id": 4,
                     "name": "Kompüter Təhlükəsizliyi",
                     "point1": "30",
-                    "point2": "0",
-                    "done": "n"
+                    "point2": "21",
+                    "done": "y"
                 },
                 {
                     "id": 5,
@@ -1226,7 +1227,7 @@
                 {
                     "id": 1,
                     "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "25",
+                    "point1": "26",
                     "point2": "0",
                     "done": "y"
                 },
@@ -1283,7 +1284,7 @@
                 {
                     "id": 1,
                     "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "28",
+                    "point1": "26",
                     "point2": "10",
                     "done": "y"
                 },
@@ -1340,7 +1341,7 @@
                 {
                     "id": 1,
                     "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "23",
+                    "point1": "25",
                     "point2": "0",
                     "done": "y"
                 },
