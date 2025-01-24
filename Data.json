@@ -116,7 +116,7 @@
                     "id": 7,
                     "name": "Estetika və Etika",
                     "point1": "43",
-                    "point2": "48", // 47
+                    "point2": "48", 
                     "done": "y"
                 },
                 {
@@ -785,7 +785,7 @@
                     "id": 2,
                     "name": "Javascript",
                     "point1": "38",
-                    "point2": "33", //29
+                    "point2": "33", 
                     "done": "y"
                 },
                 {
@@ -1691,7 +1691,7 @@
                     "id": 2,
                     "name": "Ofis proqramları",
                     "point1": "34",
-                    "point2": "40", //30
+                    "point2": "40", 
                     "done": "y"
                 },
                 {
