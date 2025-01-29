@@ -1,4 +1,3 @@
-
 {
     "group30": [
         {
@@ -60,7 +59,7 @@
                     "id": 8,
                     "name": "İnformasiya Texnologiyaları III",
                     "point1": "48",
-                    "point2": 44",
+                    "point2": "44",
                     "done": "y"
                 }
             ]
@@ -117,7 +116,7 @@
                     "id": 7,
                     "name": "Estetika və Etika",
                     "point1": "43",
-                    "point2": "48", 
+                    "point2": "48",
                     "done": "y"
                 },
                 {
@@ -786,7 +785,7 @@
                     "id": 2,
                     "name": "Javascript",
                     "point1": "38",
-                    "point2": "33", 
+                    "point2": "33",
                     "done": "y"
                 },
                 {
@@ -1692,7 +1691,7 @@
                     "id": 2,
                     "name": "Ofis proqramları",
                     "point1": "34",
-                    "point2": "40", 
+                    "point2": "40",
                     "done": "y"
                 },
                 {
@@ -1794,7 +1793,7 @@
             "group": "57",
             "user": "Zairli Murad",
             "userName": "muradik",
-            "moduls":  [
+            "moduls": [
                 {
                     "id": 1,
                     "name": "Proqramlaşdırmanın əsasları",
@@ -1851,7 +1850,7 @@
             "group": "57",
             "user": "Əliyeva Şəlalə",
             "userName": "shelale-13",
-            "moduls":  [
+            "moduls": [
                 {
                     "id": 1,
                     "name": "Proqramlaşdırmanın əsasları",
@@ -1908,7 +1907,7 @@
             "group": "57",
             "user": "Cabarov Yusif",
             "userName": "yusif.10",
-            "moduls":  [
+            "moduls": [
                 {
                     "id": 1,
                     "name": "Proqramlaşdırmanın əsasları",
@@ -1965,7 +1964,7 @@
             "group": "57",
             "user": "Məlikov Oruc",
             "userName": "ramazan",
-            "moduls":  [
+            "moduls": [
                 {
                     "id": 1,
                     "name": "Proqramlaşdırmanın əsasları",
@@ -2022,7 +2021,7 @@
             "group": "57",
             "user": "Babayev Əli",
             "userName": "ali78",
-            "moduls":  [
+            "moduls": [
                 {
                     "id": 1,
                     "name": "Proqramlaşdırmanın əsasları",
@@ -2079,7 +2078,7 @@
             "group": "57",
             "user": "Əliyeva Güllalə",
             "userName": "lale9",
-            "moduls":  [
+            "moduls": [
                 {
                     "id": 1,
                     "name": "Proqramlaşdırmanın əsasları",
@@ -2136,7 +2135,7 @@
             "group": "57",
             "user": "Cabarov Aysel",
             "userName": "aysel-cabar",
-            "moduls":  [
+            "moduls": [
                 {
                     "id": 1,
                     "name": "Proqramlaşdırmanın əsasları",
@@ -2193,7 +2192,7 @@
             "group": "57",
             "user": "Haşımova Nəcibə",
             "userName": "necibe-88",
-            "moduls":  [
+            "moduls": [
                 {
                     "id": 1,
                     "name": "Proqramlaşdırmanın əsasları",
@@ -2250,7 +2249,7 @@
             "group": "57",
             "user": "Şirəliyev Hüseyn",
             "userName": "husso",
-            "moduls":  [
+            "moduls": [
                 {
                     "id": 1,
                     "name": "Proqramlaşdırmanın əsasları",
