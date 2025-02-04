@@ -2301,5 +2301,22 @@
                 }
             ]
         }
+    ],
+    "group54": [ 
+        {
+            "id": 1,
+            "group": "54",
+            "user": "ad-soyad",
+            "userName": "kod",
+            "moduls": [
+                {
+                    "id": 1,
+                    "name": "Fen Adi",
+                    "point1": "kollekvium 1",
+                    "point2": "kollekvium 2",
+                    "done": "n"
+                }
+            ]
+        }
     ]
 }
