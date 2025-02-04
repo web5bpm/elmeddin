@@ -2302,21 +2302,65 @@
             ]
         }
     ],
-    "group54": [ 
+    "group54": [
+    {
+      "id": 1,
+      "group": "54",
+      "user": "Banu Qarazade",
+      "userName": "kod-1",
+      "moduls": [
         {
-            "id": 1,
-            "group": "54",
-            "user": "ad-soyad",
-            "userName": "kod",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "Fen Adi",
-                    "point1": "kollekvium 1",
-                    "point2": "kollekvium 2",
-                    "done": "n"
-                }
-            ]
+          "id": 1,
+          "name": "Fen Adi 1",
+          "point1": "Qiymet 1",
+          "point2": "Qiymet 2",
+          "done": "y"
+        },
+
+        {
+          "id": 2,
+          "name": "Fen Adi 2",
+          "point1": "Qiymet 1",
+          "point2": "Qiymet 2",
+          "done": "y"
+        },
+
+        {
+          "id": 3,
+          "name": "Fen Adi 3",
+          "point1": "Qiymet 1",
+          "point2": "Qiymet 2",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Fen Adi 4",
+          "point1": "Qiymet 1",
+          "point2": "Qiymet 2",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Fen Adi 5",
+          "point1": "Qiymet 1",
+          "point2": "Qiymet 2",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Fen Adi 6",
+          "point1": "Qiymet 1",
+          "point2": "Qiymet 2",
+          "done": "y"
+        },
+        {
+          "id": 7,
+          "name": "Fen Adi 7",
+          "point1": "Qiymet 1",
+          "point2": "Qiymet 2",
+          "done": "y"
         }
-    ]
+      ]
+    }
+  ]
 }
