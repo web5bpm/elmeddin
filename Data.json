@@ -2376,6 +2376,1320 @@
           "done": "y"
         }
       ]
+    },
+    {
+      "id": 2,
+      "group": "54",
+      "user": "Bağırov Abdulla",
+      "userName": "b.abdulla",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Azərbaycan Tarixi",
+          "point1": "0",
+          "point2": "71",
+          "done": "y"
+        },
+
+        {
+          "id": 2,
+          "name": "Az Dilinde İşguza Akademik Kom.",
+          "point1": "0",
+          "point2": "51",
+          "done": "y"
+        },
+
+        {
+          "id": 3,
+          "name": "Informasiya Texnalogiyalari",
+          "point1": "0",
+          "point2": "68",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Texniki Hesab",
+          "point1": "0",
+          "point2": "51",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Xarici Dilde Isguzar Kom.",
+          "point1": "0",
+          "point2": "70",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Kompyuter Emeliyyat Sistemleri",
+          "point1": "0",
+          "point2": "74",
+          "done": "y"
+        },
+        {
+          "id": 7,
+          "name": "Kompyuter Qrafikasi",
+          "point1": "0",
+          "point2": "81",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "Dizayna Giris",
+          "point1": "0",
+          "point2": "72",
+          "done": "y"
+        },
+        {
+          "id": 9,
+          "name": "Photoshop",
+          "point1": "0",
+          "point2": "81",
+          "done": "y"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "group": "54",
+      "user": "Cəbrayılova Fatimə",
+      "userName": "c.fatime-0",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Azərbaycan Tarixi",
+          "point1": "0",
+          "point2": "66",
+          "done": "y"
+        },
+
+        {
+          "id": 2,
+          "name": "Az Dilinde İşguza Akademik Kom.",
+          "point1": "0",
+          "point2": "51",
+          "done": "y"
+        },
+
+        {
+          "id": 3,
+          "name": "Informasiya Texnalogiyalari",
+          "point1": "0",
+          "point2": "52",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Texniki Hesab",
+          "point1": "0",
+          "point2": "55",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Xarici Dilde Isguzar Kom.",
+          "point1": "0",
+          "point2": "52",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Kompyuter Emeliyyat Sistemleri",
+          "point1": "0",
+          "point2": "65",
+          "done": "y"
+        },
+        {
+          "id": 7,
+          "name": "Kompyuter Qrafikasi",
+          "point1": "0",
+          "point2": "52",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "Dizayna Giris",
+          "point1": "0",
+          "point2": "51",
+          "done": "y"
+        },
+        {
+          "id": 9,
+          "name": "Photoshop",
+          "point1": "0",
+          "point2": "59",
+          "done": "y"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "group": "54",
+      "user": "Ələsgərov Əli",
+      "userName": "e.eli1",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Azərbaycan Tarixi",
+          "point1": "0",
+          "point2": "71",
+          "done": "y"
+        },
+
+        {
+          "id": 2,
+          "name": "Az Dilinde İşguza Akademik Kom.",
+          "point1": "0",
+          "point2": "51",
+          "done": "y"
+        },
+
+        {
+          "id": 3,
+          "name": "Informasiya Texnalogiyalari",
+          "point1": "0",
+          "point2": "81",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Texniki Hesab",
+          "point1": "0",
+          "point2": "85",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Xarici Dilde Isguzar Kom.",
+          "point1": "0",
+          "point2": "71",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Kompyuter Emeliyyat Sistemleri",
+          "point1": "0",
+          "point2": "71",
+          "done": "y"
+        },
+        {
+          "id": 7,
+          "name": "Kompyuter Qrafikasi",
+          "point1": "0",
+          "point2": "76",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "Dizayna Giris",
+          "point1": "0",
+          "point2": "51",
+          "done": "y"
+        },
+        {
+          "id": 9,
+          "name": "Photoshop",
+          "point1": "0",
+          "point2": "58",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "group": "54",
+          "user": "Əlizadə Alpay",
+          "userName": "alpay.e",
+          "moduls": [
+            {
+              "id": 1,
+              "name": "Azərbaycan Tarixi",
+              "point1": "0",
+              "point2": "54",
+              "done": "y"
+            },
+
+            {
+              "id": 2,
+              "name": "Az Dilinde İşguza Akademik Kom.",
+              "point1": "0",
+              "point2": "54",
+              "done": "y"
+            },
+
+            {
+              "id": 3,
+              "name": "Informasiya Texnalogiyalari",
+              "point1": "0",
+              "point2": "51",
+              "done": "y"
+            },
+            {
+              "id": 4,
+              "name": "Texniki Hesab",
+              "point1": "0",
+              "point2": "67",
+              "done": "y"
+            },
+            {
+              "id": 5,
+              "name": "Xarici Dilde Isguzar Kom.",
+              "point1": "0",
+              "point2": "81",
+              "done": "y"
+            },
+            {
+              "id": 6,
+              "name": "Kompyuter Emeliyyat Sistemleri",
+              "point1": "0",
+              "point2": "61",
+              "done": "y"
+            },
+            {
+              "id": 7,
+              "name": "Kompyuter Qrafikasi",
+              "point1": "0",
+              "point2": "66",
+              "done": "y"
+            },
+            {
+              "id": 8,
+              "name": "Dizayna Giris",
+              "point1": "0",
+              "point2": "40",
+              "done": "y"
+            },
+            {
+              "id": 9,
+              "name": "Photoshop",
+              "point1": "0",
+              "point2": "61",
+              "done": "y"
+            }
+          ]
+        },
+        {
+          "id": 6,
+          "group": "54",
+          "user": "Əlizadə Lamiyə",
+          "userName": "lamiye.1",
+          "moduls": [
+            {
+              "id": 1,
+              "name": "Azərbaycan Tarixi",
+              "point1": "0",
+              "point2": "61",
+              "done": "y"
+            },
+
+            {
+              "id": 2,
+              "name": "Az Dilinde İşguza Akademik Kom.",
+              "point1": "0",
+              "point2": "61",
+              "done": "y"
+            },
+
+            {
+              "id": 3,
+              "name": "Informasiya Texnalogiyalari",
+              "point1": "0",
+              "point2": "57",
+              "done": "y"
+            },
+            {
+              "id": 4,
+              "name": "Texniki Hesab",
+              "point1": "0",
+              "point2": "55",
+              "done": "y"
+            },
+            {
+              "id": 5,
+              "name": "Xarici Dilde Isguzar Kom.",
+              "point1": "0",
+              "point2": "51",
+              "done": "y"
+            },
+            {
+              "id": 6,
+              "name": "Kompyuter Emeliyyat Sistemleri",
+              "point1": "0",
+              "point2": "74",
+              "done": "y"
+            },
+            {
+              "id": 7,
+              "name": "Kompyuter Qrafikasi",
+              "point1": "0",
+              "point2": "69",
+              "done": "y"
+            },
+            {
+              "id": 8,
+              "name": "Dizayna Giris",
+              "point1": "0",
+              "point2": "79",
+              "done": "y"
+            },
+            {
+              "id": 9,
+              "name": "Photoshop",
+              "point1": "0",
+              "point2": "64",
+              "done": "y"
+            }
+          ]
+        },
+        {
+          "id": 7,
+          "group": "54",
+          "user": "Məmmədova Lalə",
+          "userName": "mm.lale",
+          "moduls": [
+            {
+              "id": 1,
+              "name": "Azərbaycan Tarixi",
+              "point1": "0",
+              "point2": "81",
+              "done": "y"
+            },
+
+            {
+              "id": 2,
+              "name": "Az Dilinde İşguza Akademik Kom.",
+              "point1": "0",
+              "point2": "76",
+              "done": "y"
+            },
+
+            {
+              "id": 3,
+              "name": "Informasiya Texnalogiyalari",
+              "point1": "0",
+              "point2": "74",
+              "done": "y"
+            },
+            {
+              "id": 4,
+              "name": "Texniki Hesab",
+              "point1": "0",
+              "point2": "81",
+              "done": "y"
+            },
+            {
+              "id": 5,
+              "name": "Xarici Dilde Isguzar Kom.",
+              "point1": "0",
+              "point2": "71",
+              "done": "y"
+            },
+            {
+              "id": 6,
+              "name": "Kompyuter Emeliyyat Sistemleri",
+              "point1": "0",
+              "point2": "77",
+              "done": "y"
+            },
+            {
+              "id": 7,
+              "name": "Kompyuter Qrafikasi",
+              "point1": "0",
+              "point2": "91",
+              "done": "y"
+            },
+            {
+              "id": 8,
+              "name": "Dizayna Giris",
+              "point1": "0",
+              "point2": "67",
+              "done": "y"
+            },
+            {
+              "id": 9,
+              "name": "Photoshop",
+              "point1": "0",
+              "point2": "89",
+              "done": "y"
+            }
+          ]
+        },
+        {
+          "id": 8,
+          "group": "54",
+          "user": "Həsənov Əli",
+          "userName": "hesenov.eli",
+          "moduls": [
+            {
+              "id": 1,
+              "name": "Azərbaycan Tarixi",
+              "point1": "0",
+              "point2": "91",
+              "done": "y"
+            },
+
+            {
+              "id": 2,
+              "name": "Az Dilinde İşguza Akademik Kom.",
+              "point1": "0",
+              "point2": "80",
+              "done": "y"
+            },
+
+            {
+              "id": 3,
+              "name": "Informasiya Texnalogiyalari",
+              "point1": "0",
+              "point2": "87",
+              "done": "y"
+            },
+            {
+              "id": 4,
+              "name": "Texniki Hesab",
+              "point1": "0",
+              "point2": "91",
+              "done": "y"
+            },
+            {
+              "id": 5,
+              "name": "Xarici Dilde Isguzar Kom.",
+              "point1": "0",
+              "point2": "94",
+              "done": "y"
+            },
+            {
+              "id": 6,
+              "name": "Kompyuter Emeliyyat Sistemleri",
+              "point1": "0",
+              "point2": "91",
+              "done": "y"
+            },
+            {
+              "id": 7,
+              "name": "Kompyuter Qrafikasi",
+              "point1": "0",
+              "point2": "94",
+              "done": "y"
+            },
+            {
+              "id": 8,
+              "name": "Dizayna Giris",
+              "point1": "0",
+              "point2": "94",
+              "done": "y"
+            },
+            {
+              "id": 9,
+              "name": "Photoshop",
+              "point1": "0",
+              "point2": "91",
+              "done": "y"
+            }
+          ]
+        },
+        {
+          "id": 9,
+          "group": "54",
+          "user": "İbrahimli Xəzər",
+          "userName": "xezer-1",
+          "moduls": [
+            {
+              "id": 1,
+              "name": "Azərbaycan Tarixi",
+              "point1": "0",
+              "point2": "81",
+              "done": "y"
+            },
+
+            {
+              "id": 2,
+              "name": "Az Dilinde İşguza Akademik Kom.",
+              "point1": "0",
+              "point2": "72",
+              "done": "y"
+            },
+
+            {
+              "id": 3,
+              "name": "Informasiya Texnalogiyalari",
+              "point1": "0",
+              "point2": "65",
+              "done": "y"
+            },
+            {
+              "id": 4,
+              "name": "Texniki Hesab",
+              "point1": "0",
+              "point2": "79",
+              "done": "y"
+            },
+            {
+              "id": 5,
+              "name": "Xarici Dilde Isguzar Kom.",
+              "point1": "0",
+              "point2": "81",
+              "done": "y"
+            },
+            {
+              "id": 6,
+              "name": "Kompyuter Emeliyyat Sistemleri",
+              "point1": "0",
+              "point2": "82",
+              "done": "y"
+            },
+            {
+              "id": 7,
+              "name": "Kompyuter Qrafikasi",
+              "point1": "0",
+              "point2": "91",
+              "done": "y"
+            },
+            {
+              "id": 8,
+              "name": "Dizayna Giris",
+              "point1": "0",
+              "point2": "79",
+              "done": "y"
+            },
+            {
+              "id": 9,
+              "name": "Photoshop",
+              "point1": "0",
+              "point2": "91",
+              "done": "y"
+            }
+          ]
+        },
+        {
+          "id": 10,
+          "group": "54",
+          "user": "İsmayılov İbrahim",
+          "userName": "ibrahim-123",
+          "moduls": [
+            {
+              "id": 1,
+              "name": "Azərbaycan Tarixi",
+              "point1": "0",
+              "point2": "56",
+              "done": "y"
+            },
+
+            {
+              "id": 2,
+              "name": "Az Dilinde İşguza Akademik Kom.",
+              "point1": "0",
+              "point2": "51",
+              "done": "y"
+            },
+
+            {
+              "id": 3,
+              "name": "Informasiya Texnalogiyalari",
+              "point1": "0",
+              "point2": "52",
+              "done": "y"
+            },
+            {
+              "id": 4,
+              "name": "Texniki Hesab",
+              "point1": "0",
+              "point2": "56",
+              "done": "y"
+            },
+            {
+              "id": 5,
+              "name": "Xarici Dilde Isguzar Kom.",
+              "point1": "0",
+              "point2": "51",
+              "done": "y"
+            },
+            {
+              "id": 6,
+              "name": "Kompyuter Emeliyyat Sistemleri",
+              "point1": "0",
+              "point2": "56",
+              "done": "y"
+            },
+            {
+              "id": 7,
+              "name": "Kompyuter Qrafikasi",
+              "point1": "0",
+              "point2": "56",
+              "done": "y"
+            },
+            {
+              "id": 8,
+              "name": "Dizayna Giris",
+              "point1": "0",
+              "point2": "34",
+              "done": "y"
+            },
+            {
+              "id": 9,
+              "name": "Photoshop",
+              "point1": "0",
+              "point2": "45",
+              "done": "y"
+            }
+          ]
+        },
+        {
+          "id": 11,
+          "group": "54",
+          "user": "İsmayılova Aygün",
+          "userName": "aygun-7",
+          "moduls": [
+            {
+              "id": 1,
+              "name": "Azərbaycan Tarixi",
+              "point1": "0",
+              "point2": "59",
+              "done": "y"
+            },
+
+            {
+              "id": 2,
+              "name": "Az Dilinde İşguza Akademik Kom.",
+              "point1": "0",
+              "point2": "82",
+              "done": "y"
+            },
+
+            {
+              "id": 3,
+              "name": "Informasiya Texnalogiyalari",
+              "point1": "0",
+              "point2": "67",
+              "done": "y"
+            },
+            {
+              "id": 4,
+              "name": "Texniki Hesab",
+              "point1": "0",
+              "point2": "43",
+              "done": "y"
+            },
+            {
+              "id": 5,
+              "name": "Xarici Dilde Isguzar Kom.",
+              "point1": "0",
+              "point2": "59",
+              "done": "y"
+            },
+            {
+              "id": 6,
+              "name": "Kompyuter Emeliyyat Sistemleri",
+              "point1": "0",
+              "point2": "37",
+              "done": "y"
+            },
+            {
+              "id": 7,
+              "name": "Kompyuter Qrafikasi",
+              "point1": "0",
+              "point2": "54",
+              "done": "y"
+            },
+            {
+              "id": 8,
+              "name": "Dizayna Giris",
+              "point1": "0",
+              "point2": "38",
+              "done": "y"
+            },
+            {
+              "id": 9,
+              "name": "Photoshop",
+              "point1": "0",
+              "point2": "45",
+              "done": "y"
+            }
+          ]
+        },
+        {
+          "id": 12,
+          "group": "54",
+          "user": "Qafarzadə Əli",
+          "userName": "q.eli-2",
+          "moduls": [
+            {
+              "id": 1,
+              "name": "Azərbaycan Tarixi",
+              "point1": "0",
+              "point2": "61",
+              "done": "y"
+            },
+
+            {
+              "id": 2,
+              "name": "Az Dilinde İşguza Akademik Kom.",
+              "point1": "0",
+              "point2": "55",
+              "done": "y"
+            },
+
+            {
+              "id": 3,
+              "name": "Informasiya Texnalogiyalari",
+              "point1": "0",
+              "point2": "54",
+              "done": "y"
+            },
+            {
+              "id": 4,
+              "name": "Texniki Hesab",
+              "point1": "0",
+              "point2": "51",
+              "done": "y"
+            },
+            {
+              "id": 5,
+              "name": "Xarici Dilde Isguzar Kom.",
+              "point1": "0",
+              "point2": "82",
+              "done": "y"
+            },
+            {
+              "id": 6,
+              "name": "Kompyuter Emeliyyat Sistemleri",
+              "point1": "0",
+              "point2": "68",
+              "done": "y"
+            },
+            {
+              "id": 7,
+              "name": "Kompyuter Qrafikasi",
+              "point1": "0",
+              "point2": "70",
+              "done": "y"
+            },
+            {
+              "id": 8,
+              "name": "Dizayna Giris",
+              "point1": "0",
+              "point2": "52",
+              "done": "y"
+            },
+            {
+              "id": 9,
+              "name": "Photoshop",
+              "point1": "0",
+              "point2": "69",
+              "done": "y"
+            }
+          ]
+        },
+        {
+          "id": 13,
+          "group": "54",
+          "user": "Quliyev Ziya",
+          "userName": "ziya-quliyev-1",
+          "moduls": [
+            {
+              "id": 1,
+              "name": "Azərbaycan Tarixi",
+              "point1": "0",
+              "point2": "72",
+              "done": "y"
+            },
+
+            {
+              "id": 2,
+              "name": "Az Dilinde İşguza Akademik Kom.",
+              "point1": "0",
+              "point2": "61",
+              "done": "y"
+            },
+
+            {
+              "id": 3,
+              "name": "Informasiya Texnalogiyalari",
+              "point1": "0",
+              "point2": "61",
+              "done": "y"
+            },
+            {
+              "id": 4,
+              "name": "Texniki Hesab",
+              "point1": "0",
+              "point2": "62",
+              "done": "y"
+            },
+            {
+              "id": 5,
+              "name": "Xarici Dilde Isguzar Kom.",
+              "point1": "0",
+              "point2": "61",
+              "done": "y"
+            },
+            {
+              "id": 6,
+              "name": "Kompyuter Emeliyyat Sistemleri",
+              "point1": "0",
+              "point2": "73",
+              "done": "y"
+            },
+            {
+              "id": 7,
+              "name": "Kompyuter Qrafikasi",
+              "point1": "0",
+              "point2": "58",
+              "done": "y"
+            },
+            {
+              "id": 8,
+              "name": "Dizayna Giris",
+              "point1": "0",
+              "point2": "52",
+              "done": "y"
+            },
+            {
+              "id": 9,
+              "name": "Photoshop",
+              "point1": "0",
+              "point2": "59",
+              "done": "y"
+            }
+          ]
+        },
+        {
+          "id": 14,
+          "group": "54",
+          "user": "Qaraca Banu",
+          "userName": "q.banus",
+          "moduls": [
+            {
+              "id": 1,
+              "name": "Azərbaycan Tarixi",
+              "point1": "0",
+              "point2": "84",
+              "done": "y"
+            },
+
+            {
+              "id": 2,
+              "name": "Az Dilinde İşguza Akademik Kom.",
+              "point1": "0",
+              "point2": "51",
+              "done": "y"
+            },
+
+            {
+              "id": 3,
+              "name": "Informasiya Texnalogiyalari",
+              "point1": "0",
+              "point2": "63",
+              "done": "y"
+            },
+            {
+              "id": 4,
+              "name": "Texniki Hesab",
+              "point1": "0",
+              "point2": "61",
+              "done": "y"
+            },
+            {
+              "id": 5,
+              "name": "Xarici Dilde Isguzar Kom.",
+              "point1": "0",
+              "point2": "78",
+              "done": "y"
+            },
+            {
+              "id": 6,
+              "name": "Kompyuter Emeliyyat Sistemleri",
+              "point1": "0",
+              "point2": "73",
+              "done": "y"
+            },
+            {
+              "id": 7,
+              "name": "Kompyuter Qrafikasi",
+              "point1": "0",
+              "point2": "67",
+              "done": "y"
+            },
+            {
+              "id": 8,
+              "name": "Dizayna Giris",
+              "point1": "0",
+              "point2": "51",
+              "done": "y"
+            },
+            {
+              "id": 9,
+              "name": "Photoshop",
+              "point1": "0",
+              "point2": "59",
+              "done": "y"
+            }
+          ]
+        },
+        {
+          "id": 15,
+          "group": "54",
+          "user": "Məmmədov Cavid ",
+          "userName": "m-cavid-0",
+          "moduls": [
+            {
+              "id": 1,
+              "name": "Azərbaycan Tarixi",
+              "point1": "0",
+              "point2": "81",
+              "done": "y"
+            },
+
+            {
+              "id": 2,
+              "name": "Az Dilinde İşguza Akademik Kom.",
+              "point1": "0",
+              "point2": "61",
+              "done": "y"
+            },
+
+            {
+              "id": 3,
+              "name": "Informasiya Texnalogiyalari",
+              "point1": "0",
+              "point2": "71",
+              "done": "y"
+            },
+            {
+              "id": 4,
+              "name": "Texniki Hesab",
+              "point1": "0",
+              "point2": "52",
+              "done": "y"
+            },
+            {
+              "id": 5,
+              "name": "Xarici Dilde Isguzar Kom.",
+              "point1": "0",
+              "point2": "71",
+              "done": "y"
+            },
+            {
+              "id": 6,
+              "name": "Kompyuter Emeliyyat Sistemleri",
+              "point1": "0",
+              "point2": "60",
+              "done": "y"
+            },
+            {
+              "id": 7,
+              "name": "Kompyuter Qrafikasi",
+              "point1": "0",
+              "point2": "54",
+              "done": "y"
+            },
+            {
+              "id": 8,
+              "name": "Dizayna Giris",
+              "point1": "0",
+              "point2": "51",
+              "done": "y"
+            },
+            {
+              "id": 9,
+              "name": "Photoshop",
+              "point1": "0",
+              "point2": "63",
+              "done": "y"
+            }
+          ]
+        },
+        {
+          "id": 16,
+          "group": "54",
+          "user": "Sadiqzadə Ayxan",
+          "userName": "ayxan-011",
+          "moduls": [
+            {
+              "id": 1,
+              "name": "Azərbaycan Tarixi",
+              "point1": "0",
+              "point2": "56",
+              "done": "y"
+            },
+
+            {
+              "id": 2,
+              "name": "Az Dilinde İşguza Akademik Kom.",
+              "point1": "0",
+              "point2": "53",
+              "done": "y"
+            },
+
+            {
+              "id": 3,
+              "name": "Informasiya Texnalogiyalari",
+              "point1": "0",
+              "point2": "53",
+              "done": "y"
+            },
+            {
+              "id": 4,
+              "name": "Texniki Hesab",
+              "point1": "0",
+              "point2": "44",
+              "done": "y"
+            },
+            {
+              "id": 5,
+              "name": "Xarici Dilde Isguzar Kom.",
+              "point1": "0",
+              "point2": "52",
+              "done": "y"
+            },
+            {
+              "id": 6,
+              "name": "Kompyuter Emeliyyat Sistemleri",
+              "point1": "0",
+              "point2": "51",
+              "done": "y"
+            },
+            {
+              "id": 7,
+              "name": "Kompyuter Qrafikasi",
+              "point1": "0",
+              "point2": "51",
+              "done": "y"
+            },
+            {
+              "id": 8,
+              "name": "Dizayna Giris",
+              "point1": "0",
+              "point2": "25",
+              "done": "y"
+            },
+            {
+              "id": 9,
+              "name": "Photoshop",
+              "point1": "0",
+              "point2": "46",
+              "done": "y"
+            }
+          ]
+        },
+        {
+          "id": 17,
+          "group": "54",
+          "user": "Suleymanova Ayan",
+          "userName": "ayan-099",
+          "moduls": [
+            {
+              "id": 1,
+              "name": "Azərbaycan Tarixi",
+              "point1": "0",
+              "point2": "81",
+              "done": "y"
+            },
+
+            {
+              "id": 2,
+              "name": "Az Dilinde İşguza Akademik Kom.",
+              "point1": "0",
+              "point2": "62",
+              "done": "y"
+            },
+
+            {
+              "id": 3,
+              "name": "Informasiya Texnalogiyalari",
+              "point1": "0",
+              "point2": "81",
+              "done": "y"
+            },
+            {
+              "id": 4,
+              "name": "Texniki Hesab",
+              "point1": "0",
+              "point2": "80",
+              "done": "y"
+            },
+            {
+              "id": 5,
+              "name": "Xarici Dilde Isguzar Kom.",
+              "point1": "0",
+              "point2": "81",
+              "done": "y"
+            },
+            {
+              "id": 6,
+              "name": "Kompyuter Emeliyyat Sistemleri",
+              "point1": "0",
+              "point2": "72",
+              "done": "y"
+            },
+            {
+              "id": 7,
+              "name": "Kompyuter Qrafikasi",
+              "point1": "0",
+              "point2": "77",
+              "done": "y"
+            },
+            {
+              "id": 8,
+              "name": "Dizayna Giris",
+              "point1": "0",
+              "point2": "56",
+              "done": "y"
+            },
+            {
+              "id": 9,
+              "name": "Photoshop",
+              "point1": "0",
+              "point2": "59",
+              "done": "y"
+            }
+          ]
+        },
+        {
+          "id": 18,
+          "group": "54",
+          "user": "Əlizadə Banu",
+          "userName": "e.banu-2",
+          "moduls": [
+            {
+              "id": 1,
+              "name": "Azərbaycan Tarixi",
+              "point1": "0",
+              "point2": "69",
+              "done": "y"
+            },
+
+            {
+              "id": 2,
+              "name": "Az Dilinde İşguza Akademik Kom.",
+              "point1": "0",
+              "point2": "71",
+              "done": "y"
+            },
+
+            {
+              "id": 3,
+              "name": "Informasiya Texnalogiyalari",
+              "point1": "0",
+              "point2": "55",
+              "done": "y"
+            },
+            {
+              "id": 4,
+              "name": "Texniki Hesab",
+              "point1": "0",
+              "point2": "68",
+              "done": "y"
+            },
+            {
+              "id": 5,
+              "name": "Xarici Dilde Isguzar Kom.",
+              "point1": "0",
+              "point2": "82",
+              "done": "y"
+            },
+            {
+              "id": 6,
+              "name": "Kompyuter Emeliyyat Sistemleri",
+              "point1": "0",
+              "point2": "73",
+              "done": "y"
+            },
+            {
+              "id": 7,
+              "name": "Kompyuter Qrafikasi",
+              "point1": "0",
+              "point2": "64",
+              "done": "y"
+            },
+            {
+              "id": 8,
+              "name": "Dizayna Giris",
+              "point1": "0",
+              "point2": "54",
+              "done": "y"
+            },
+            {
+              "id": 9,
+              "name": "Photoshop",
+              "point1": "0",
+              "point2": "69",
+              "done": "y"
+            }
+          ]
+        },
+        {
+          "id": 19,
+          "group": "54",
+          "user": "Əlizadə İsmayıl",
+          "userName": "ismayil.e",
+          "moduls": [
+            {
+              "id": 1,
+              "name": "Azərbaycan Tarixi",
+              "point1": "0",
+              "point2": "63",
+              "done": "y"
+            },
+
+            {
+              "id": 2,
+              "name": "Az Dilinde İşguza Akademik Kom.",
+              "point1": "0",
+              "point2": "51",
+              "done": "y"
+            },
+
+            {
+              "id": 3,
+              "name": "Informasiya Texnalogiyalari",
+              "point1": "0",
+              "point2": "51",
+              "done": "y"
+            },
+            {
+              "id": 4,
+              "name": "Texniki Hesab",
+              "point1": "0",
+              "point2": "52",
+              "done": "y"
+            },
+            {
+              "id": 5,
+              "name": "Xarici Dilde Isguzar Kom.",
+              "point1": "0",
+              "point2": "70",
+              "done": "y"
+            },
+            {
+              "id": 6,
+              "name": "Kompyuter Emeliyyat Sistemleri",
+              "point1": "0",
+              "point2": "51",
+              "done": "y"
+            },
+            {
+              "id": 7,
+              "name": "Kompyuter Qrafikasi",
+              "point1": "0",
+              "point2": "55",
+              "done": "y"
+            },
+            {
+              "id": 8,
+              "name": "Dizayna Giris",
+              "point1": "0",
+              "point2": "51",
+              "done": "y"
+            },
+            {
+              "id": 9,
+              "name": "Photoshop",
+              "point1": "0",
+              "point2": "55",
+              "done": "y"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
