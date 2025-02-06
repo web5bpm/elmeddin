@@ -1,2363 +1,2378 @@
 {
-    "group30": [
-        {
-            "id": 1,
-            "group": "30",
-            "user": "Fuad Mikayılov",
-            "userName": "fuad-veb-3",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "HTML",
-                    "point1": "50",
-                    "point2": "48",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Javascript",
-                    "point1": "50",
-                    "point2": "48",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Java Proqramlaşdırma dili I",
-                    "point1": "50",
-                    "point2": "48",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Kompüter Təhlükəsizliyi",
-                    "point1": "48",
-                    "point2": "48",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Photoshop",
-                    "point1": "49",
-                    "point2": "50",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "Xarici dil III",
-                    "point1": "43",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Estetika və Etika",
-                    "point1": "47",
-                    "point2": "48",
-                    "done": "y"
-                },
-                {
-                    "id": 8,
-                    "name": "İnformasiya Texnologiyaları III",
-                    "point1": "48",
-                    "point2": "44",
-                    "done": "y"
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "group": "30",
-            "user": "Şükür Şükürov",
-            "userName": "şukur-car",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "HTML",
-                    "point1": "50",
-                    "point2": "47",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Javascript",
-                    "point1": "45",
-                    "point2": "40",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Java Proqramlaşdırma dili I",
-                    "point1": "46",
-                    "point2": "43",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Kompüter Təhlükəsizliyi",
-                    "point1": "45",
-                    "point2": "43",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Photoshop",
-                    "point1": "49",
-                    "point2": "49",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "Xarici dil III",
-                    "point1": "43",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Estetika və Etika",
-                    "point1": "43",
-                    "point2": "48",
-                    "done": "y"
-                },
-                {
-                    "id": 8,
-                    "name": "İnformasiya Texnologiyaları III",
-                    "point1": "46",
-                    "point2": "39",
-                    "done": "y"
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "group": "30",
-            "user": "İbrahim Yusifov",
-            "userName": "ibo-10",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "HTML",
-                    "point1": "48",
-                    "point2": "50",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Javascript",
-                    "point1": "45",
-                    "point2": "40",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Java Proqramlaşdırma dili I",
-                    "point1": "46",
-                    "point2": "41",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Kompüter Təhlükəsizliyi",
-                    "point1": "45",
-                    "point2": "46",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Photoshop",
-                    "point1": "49",
-                    "point2": "49",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "Xarici dil III",
-                    "point1": "46",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Estetika və Etika",
-                    "point1": "45",
-                    "point2": "47",
-                    "done": "y"
-                },
-                {
-                    "id": 8,
-                    "name": "İnformasiya Texnologiyaları III",
-                    "point1": "46",
-                    "point2": "45",
-                    "done": "n"
-                }
-            ]
-        },
-        {
-            "id": 4,
-            "group": "30",
-            "user": "Leyla Əliyeva",
-            "userName": "leylo",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "HTML",
-                    "point1": "44",
-                    "point2": "35",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Javascript",
-                    "point1": "38",
-                    "point2": "31",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Java Proqramlaşdırma dili I",
-                    "point1": "38",
-                    "point2": "31",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Kompüter Təhlükəsizliyi",
-                    "point1": "44",
-                    "point2": "35",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Photoshop",
-                    "point1": "44",
-                    "point2": "42",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "Xarici dil III",
-                    "point1": "47",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Estetika və Etika",
-                    "point1": "47",
-                    "point2": "40",
-                    "done": "y"
-                },
-                {
-                    "id": 8,
-                    "name": "İnformasiya Texnologiyaları III",
-                    "point1": "36",
-                    "point2": "37",
-                    "done": "y"
-                }
-            ]
-        },
-        {
-            "id": 5,
-            "group": "30",
-            "user": "Nəzrin Məlikova",
-            "userName": "NM",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "HTML",
-                    "point1": "33",
-                    "point2": "30",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Javascript",
-                    "point1": "32",
-                    "point2": "19",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Java Proqramlaşdırma dili I",
-                    "point1": "30",
-                    "point2": "25",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Kompüter Təhlükəsizliyi",
-                    "point1": "30",
-                    "point2": "26",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Photoshop",
-                    "point1": "31",
-                    "point2": "26",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "Xarici dil III",
-                    "point1": "34",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Estetika və Etika",
-                    "point1": "34",
-                    "point2": "37",
-                    "done": "y"
-                },
-                {
-                    "id": 8,
-                    "name": "İnformasiya Texnologiyaları III",
-                    "point1": "38",
-                    "point2": "27",
-                    "done": "y"
-                }
-            ]
-        },
-        {
-            "id": 6,
-            "group": "30",
-            "user": "Kəmaləddin Zeynalzadə",
-            "userName": "kamuçka",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "HTML",
-                    "point1": "32",
-                    "point2": "25",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Javascript",
-                    "point1": "32",
-                    "point2": "19",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Java Proqramlaşdırma dili I",
-                    "point1": "31",
-                    "point2": "21",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Kompüter Təhlükəsizliyi",
-                    "point1": "31",
-                    "point2": "24",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Photoshop",
-                    "point1": "32",
-                    "point2": "20",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "Xarici dil III",
-                    "point1": "27",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Estetika və Etika",
-                    "point1": "31",
-                    "point2": "29",
-                    "done": "y"
-                },
-                {
-                    "id": 8,
-                    "name": "İnformasiya Texnologiyaları III",
-                    "point1": "26",
-                    "point2": "26",
-                    "done": "y"
-                }
-            ]
-        },
-        {
-            "id": 7,
-            "group": "30",
-            "user": "Esmira Rzayeva",
-            "userName": "esmira-06",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "HTML",
-                    "point1": "42",
-                    "point2": "30",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Javascript",
-                    "point1": "35",
-                    "point2": "36",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Java Proqramlaşdırma dili I",
-                    "point1": "34",
-                    "point2": "37",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Kompüter Təhlükəsizliyi",
-                    "point1": "35",
-                    "point2": "25",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Photoshop",
-                    "point1": "43",
-                    "point2": "40",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "Xarici dil III",
-                    "point1": "39",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Estetika və Etika",
-                    "point1": "44",
-                    "point2": "44",
-                    "done": "y"
-                },
-                {
-                    "id": 8,
-                    "name": "İnformasiya Texnologiyaları III",
-                    "point1": "43",
-                    "point2": "40",
-                    "done": "y"
-                }
-            ]
-        },
-        {
-            "id": 8,
-            "group": "30",
-            "user": "Fərid Hüseynli",
-            "userName": "hsynv",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "HTML",
-                    "point1": "35",
-                    "point2": "29",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Javascript",
-                    "point1": "34",
-                    "point2": "34",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Java Proqramlaşdırma dili I",
-                    "point1": "35",
-                    "point2": "37",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Kompüter Təhlükəsizliyi",
-                    "point1": "36",
-                    "point2": "33",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Photoshop",
-                    "point1": "36",
-                    "point2": "37",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "Xarici dil III",
-                    "point1": "38",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Estetika və Etika",
-                    "point1": "38",
-                    "point2": "44",
-                    "done": "y"
-                },
-                {
-                    "id": 8,
-                    "name": "İnformasiya Texnologiyaları III",
-                    "point1": "33",
-                    "point2": "31",
-                    "done": "y"
-                }
-            ]
-        },
-        {
-            "id": 9,
-            "group": "30",
-            "user": "Abbasov Ərhan",
-            "userName": "əkkuş",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "HTML",
-                    "point1": "31",
-                    "point2": "25",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Javascript",
-                    "point1": "32",
-                    "point2": "29",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Java Proqramlaşdırma dili I",
-                    "point1": "33",
-                    "point2": "27",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Kompüter Təhlükəsizliyi",
-                    "point1": "33",
-                    "point2": "24",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Photoshop",
-                    "point1": "34",
-                    "point2": "37",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "Xarici dil III",
-                    "point1": "35",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Estetika və Etika",
-                    "point1": "35",
-                    "point2": "34",
-                    "done": "y"
-                },
-                {
-                    "id": 8,
-                    "name": "İnformasiya Texnologiyaları III",
-                    "point1": "28",
-                    "point2": "24",
-                    "done": "y"
-                }
-            ]
-        },
-        {
-            "id": 10,
-            "group": "30",
-            "user": "Mamedov Nurlan",
-            "userName": "nurlan",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "HTML",
-                    "point1": "45",
-                    "point2": "33",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Javascript",
-                    "point1": "38",
-                    "point2": "29",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Java Proqramlaşdırma dili I",
-                    "point1": "45",
-                    "point2": "42",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Kompüter Təhlükəsizliyi",
-                    "point1": "37",
-                    "point2": "40",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Photoshop",
-                    "point1": "39",
-                    "point2": "44",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "Xarici dil III",
-                    "point1": "44",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Estetika və Etika",
-                    "point1": "46",
-                    "point2": "43",
-                    "done": "y"
-                },
-                {
-                    "id": 8,
-                    "name": "İnformasiya Texnologiyaları III",
-                    "point1": "44",
-                    "point2": "31",
-                    "done": "y"
-                }
-            ]
-        },
-        {
-            "id": 11,
-            "group": "30",
-            "user": "Əlixanova Fatima",
-            "userName": "fatima-t1",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "HTML",
-                    "point1": "35",
-                    "point2": "31",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Javascript",
-                    "point1": "36",
-                    "point2": "24",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Java Proqramlaşdırma dili I",
-                    "point1": "36",
-                    "point2": "32",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Kompüter Təhlükəsizliyi",
-                    "point1": "33",
-                    "point2": "28",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Photoshop",
-                    "point1": "35",
-                    "point2": "38",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "Xarici dil III",
-                    "point1": "40",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Estetika və Etika",
-                    "point1": "40",
-                    "point2": "46",
-                    "done": "y"
-                },
-                {
-                    "id": 8,
-                    "name": "İnformasiya Texnologiyaları III",
-                    "point1": "39",
-                    "point2": "33",
-                    "done": "y"
-                }
-            ]
-        },
-        {
-            "id": 12,
-            "group": "30",
-            "user": "Əlixanova Zəhra",
-            "userName": "zehra-12",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "HTML",
-                    "point1": "32",
-                    "point2": "32",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Javascript",
-                    "point1": "32",
-                    "point2": "21",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Java Proqramlaşdırma dili I",
-                    "point1": "33",
-                    "point2": "27",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Kompüter Təhlükəsizliyi",
-                    "point1": "34",
-                    "point2": "23",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Photoshop",
-                    "point1": "33",
-                    "point2": "35",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "Xarici dil III",
-                    "point1": "37",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Estetika və Etika",
-                    "point1": "37",
-                    "point2": "42",
-                    "done": "y"
-                },
-                {
-                    "id": 8,
-                    "name": "İnformasiya Texnologiyaları III",
-                    "point1": "37",
-                    "point2": "30",
-                    "done": "y"
-                }
-            ]
-        },
-        {
-            "id": 13,
-            "group": "30",
-            "user": "Elton Cabbarov",
-            "userName": "ton31",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "HTML",
-                    "point1": "36",
-                    "point2": "39",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Javascript",
-                    "point1": "38",
-                    "point2": "33",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Java Proqramlaşdırma dili I",
-                    "point1": "37",
-                    "point2": "37",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Kompüter Təhlükəsizliyi",
-                    "point1": "37",
-                    "point2": "38",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Photoshop",
-                    "point1": "36",
-                    "point2": "39",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "Xarici dil III",
-                    "point1": "37",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Estetika və Etika",
-                    "point1": "41",
-                    "point2": "47",
-                    "done": "y"
-                },
-                {
-                    "id": 8,
-                    "name": "İnformasiya Texnologiyaları III",
-                    "point1": "41",
-                    "point2": "37",
-                    "done": "y"
-                }
-            ]
-        },
-        {
-            "id": 14,
-            "group": "30",
-            "user": "Rzazadə Fərrux",
-            "userName": "ferrux-99",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "HTML",
-                    "point1": "44",
-                    "point2": "39",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Javascript",
-                    "point1": "44",
-                    "point2": "40",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Java Proqramlaşdırma dili I",
-                    "point1": "45",
-                    "point2": "42",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Kompüter Təhlükəsizliyi",
-                    "point1": "46",
-                    "point2": "41",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Photoshop",
-                    "point1": "43",
-                    "point2": "41",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "Xarici dil III",
-                    "point1": "42",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Estetika və Etika",
-                    "point1": "46",
-                    "point2": "42",
-                    "done": "y"
-                },
-                {
-                    "id": 8,
-                    "name": "İnformasiya Texnologiyaları III",
-                    "point1": "43",
-                    "point2": "35",
-                    "done": "y"
-                }
-            ]
-        },
-        {
-            "id": 15,
-            "group": "30",
-            "user": "Kazımzadə Zəhra",
-            "userName": "k.zehra1",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "HTML",
-                    "point1": "37",
-                    "point2": "43",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Javascript",
-                    "point1": "39",
-                    "point2": "28",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Java Proqramlaşdırma dili I",
-                    "point1": "38",
-                    "point2": "31",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Kompüter Təhlükəsizliyi",
-                    "point1": "39",
-                    "point2": "34",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Photoshop",
-                    "point1": "37",
-                    "point2": "45",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "Xarici dil III",
-                    "point1": "46",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Estetika və Etika",
-                    "point1": "45",
-                    "point2": "39",
-                    "done": "y"
-                },
-                {
-                    "id": 8,
-                    "name": "İnformasiya Texnologiyaları III",
-                    "point1": "40",
-                    "point2": "35",
-                    "done": "y"
-                }
-            ]
-        },
-        {
-            "id": 16,
-            "group": "30",
-            "user": "Məmmədova Sevinc",
-            "userName": "sevinc-m-12",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "HTML",
-                    "point1": "32",
-                    "point2": "27",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Javascript",
-                    "point1": "32",
-                    "point2": "21",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Java Proqramlaşdırma dili I",
-                    "point1": "32",
-                    "point2": "30",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Kompüter Təhlükəsizliyi",
-                    "point1": "33",
-                    "point2": "23",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Photoshop",
-                    "point1": "34",
-                    "point2": "35",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "Xarici dil III",
-                    "point1": "38",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Estetika və Etika",
-                    "point1": "36",
-                    "point2": "47",
-                    "done": "y"
-                },
-                {
-                    "id": 8,
-                    "name": "İnformasiya Texnologiyaları III",
-                    "point1": "34",
-                    "point2": "34",
-                    "done": "y"
-                }
-            ]
-        },
-        {
-            "id": 17,
-            "group": "30",
-            "user": "Qafarov Hüseyn",
-            "userName": "huseyn.9",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "HTML",
-                    "point1": "41",
-                    "point2": "38",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Javascript",
-                    "point1": "32",
-                    "point2": "22",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Java Proqramlaşdırma dili I",
-                    "point1": "34",
-                    "point2": "35",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Kompüter Təhlükəsizliyi",
-                    "point1": "35",
-                    "point2": "26",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Photoshop",
-                    "point1": "42",
-                    "point2": "44",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "Xarici dil III",
-                    "point1": "34",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Estetika və Etika",
-                    "point1": "34",
-                    "point2": "27",
-                    "done": "y"
-                },
-                {
-                    "id": 8,
-                    "name": "İnformasiya Texnologiyaları III",
-                    "point1": "36",
-                    "point2": "36",
-                    "done": "y"
-                }
-            ]
-        },
-        {
-            "id": 18,
-            "group": "30",
-            "user": "Şirinli Tahir",
-            "userName": "tahir.10",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "HTML",
-                    "point1": "31",
-                    "point2": "28",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Javascript",
-                    "point1": "32",
-                    "point2": "19",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Java Proqramlaşdırma dili I",
-                    "point1": "31",
-                    "point2": "20",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Kompüter Təhlükəsizliyi",
-                    "point1": "30",
-                    "point2": "24",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Photoshop",
-                    "point1": "33",
-                    "point2": "18",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "Xarici dil III",
-                    "point1": "31",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Estetika və Etika",
-                    "point1": "31",
-                    "point2": "35",
-                    "done": "y"
-                },
-                {
-                    "id": 8,
-                    "name": "İnformasiya Texnologiyaları III",
-                    "point1": "28",
-                    "point2": "30",
-                    "done": "y"
-                }
-            ]
-        },
-        {
-            "id": 19,
-            "group": "30",
-            "user": "Eminov Həmid",
-            "userName": "h-eminov",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "HTML",
-                    "point1": "31",
-                    "point2": "20",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Javascript",
-                    "point1": "32",
-                    "point2": "19",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Java Proqramlaşdırma dili I",
-                    "point1": "31",
-                    "point2": "20",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Kompüter Təhlükəsizliyi",
-                    "point1": "30",
-                    "point2": "21",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Photoshop",
-                    "point1": "33",
-                    "point2": "18",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "Xarici dil III",
-                    "point1": "31",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Estetika və Etika",
-                    "point1": "31",
-                    "point2": "34",
-                    "done": "y"
-                },
-                {
-                    "id": 8,
-                    "name": "İnformasiya Texnologiyaları III",
-                    "point1": "31",
-                    "point2": "27",
-                    "done": "y"
-                }
-            ]
-        }
-    ],
-    "group57": [
-        {
-            "id": 1,
-            "group": "57",
-            "user": "Aslanov İnal",
-            "userName": "inal-1",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "26",
-                    "point2": "25",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Ofis proqramları",
-                    "point1": "23",
-                    "point2": "28",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Əməliyyat sistemləri",
-                    "point1": "24",
-                    "point2": "28",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Rəqəmsal dövrənin əsasları",
-                    "point1": "23",
-                    "point2": "0",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Azərbaycan tarixi",
-                    "point1": "25",
-                    "point2": "32",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "İnformasiya Texnologiyaları I",
-                    "point1": "28",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Xarici dil I",
-                    "point1": "26",
-                    "point2": "0",
-                    "done": "n"
-                }
-            ]
-        },
-        {
-            "id": 2,
-            "group": "57",
-            "user": "Hacızadə Adil",
-            "userName": "adil-12",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "26",
-                    "point2": "10",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Ofis proqramları",
-                    "point1": "26",
-                    "point2": "25",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Əməliyyat sistemləri",
-                    "point1": "27",
-                    "point2": "30",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Rəqəmsal dövrənin əsasları",
-                    "point1": "27",
-                    "point2": "24",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Azərbaycan tarixi",
-                    "point1": "27",
-                    "point2": "30",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "İnformasiya Texnologiyaları I",
-                    "point1": "29",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Xarici dil I",
-                    "point1": "25",
-                    "point2": "0",
-                    "done": "n"
-                }
-            ]
-        },
-        {
-            "id": 3,
-            "group": "57",
-            "user": "Əsədov Altay",
-            "userName": "altay-6",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "25",
-                    "point2": "26",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Ofis proqramları",
-                    "point1": "25",
-                    "point2": "25",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Əməliyyat sistemləri",
-                    "point1": "24",
-                    "point2": "27",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Rəqəmsal dövrənin əsasları",
-                    "point1": "23",
-                    "point2": "0",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Azərbaycan tarixi",
-                    "point1": "25",
-                    "point2": "38",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "İnformasiya Texnologiyaları I",
-                    "point1": "26",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Xarici dil I",
-                    "point1": "25",
-                    "point2": "0",
-                    "done": "n"
-                }
-            ]
-        },
-        {
-            "id": 4,
-            "group": "57",
-            "user": "Əşrəfov Məhəmməd",
-            "userName": "əşrəfov-1",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "25",
-                    "point2": "0",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Ofis proqramları",
-                    "point1": "23",
-                    "point2": "33",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Əməliyyat sistemləri",
-                    "point1": "24",
-                    "point2": "30",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Rəqəmsal dövrənin əsasları",
-                    "point1": "23",
-                    "point2": "28",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Azərbaycan tarixi",
-                    "point1": "25",
-                    "point2": "31",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "İnformasiya Texnologiyaları I",
-                    "point1": "33",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Xarici dil I",
-                    "point1": "30",
-                    "point2": "0",
-                    "done": "n"
-                }
-            ]
-        },
-        {
-            "id": 5,
-            "group": "57",
-            "user": "Rəhimli Əlisadir",
-            "userName": "sadir",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "31",
-                    "point2": "28",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Ofis proqramları",
-                    "point1": "33",
-                    "point2": "29",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Əməliyyat sistemləri",
-                    "point1": "32",
-                    "point2": "35",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Rəqəmsal dövrənin əsasları",
-                    "point1": "33",
-                    "point2": "23",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Azərbaycan tarixi",
-                    "point1": "34",
-                    "point2": "39",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "İnformasiya Texnologiyaları I",
-                    "point1": "26",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Xarici dil I",
-                    "point1": "29",
-                    "point2": "0",
-                    "done": "n"
-                }
-            ]
-        },
-        {
-            "id": 6,
-            "group": "57",
-            "user": "Qurbanov Fateh",
-            "userName": "fateh-12",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "33",
-                    "point2": "23",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Ofis proqramları",
-                    "point1": "31",
-                    "point2": "38",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Əməliyyat sistemləri",
-                    "point1": "32",
-                    "point2": "35",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Rəqəmsal dövrənin əsasları",
-                    "point1": "33",
-                    "point2": "19",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Azərbaycan tarixi",
-                    "point1": "35",
-                    "point2": "36",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "İnformasiya Texnologiyaları I",
-                    "point1": "31",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Xarici dil I",
-                    "point1": "36",
-                    "point2": "0",
-                    "done": "n"
-                }
-            ]
-        },
-        {
-            "id": 7,
-            "group": "57",
-            "user": "Məmmədzadə Gövhər",
-            "userName": "gohu-9",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "28",
-                    "point2": "23",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Ofis proqramları",
-                    "point1": "27",
-                    "point2": "32",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Əməliyyat sistemləri",
-                    "point1": "29",
-                    "point2": "32",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Rəqəmsal dövrənin əsasları",
-                    "point1": "28",
-                    "point2": "0",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Azərbaycan tarixi",
-                    "point1": "29",
-                    "point2": "30",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "İnformasiya Texnologiyaları I",
-                    "point1": "30",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Xarici dil I",
-                    "point1": "43",
-                    "point2": "0",
-                    "done": "n"
-                }
-            ]
-        },
-        {
-            "id": 8,
-            "group": "57",
-            "user": "Məmmədova Nailə",
-            "userName": "naile-1",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "28",
-                    "point2": "7",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Ofis proqramları",
-                    "point1": "27",
-                    "point2": "44",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Əməliyyat sistemləri",
-                    "point1": "29",
-                    "point2": "30",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Rəqəmsal dövrənin əsasları",
-                    "point1": "28",
-                    "point2": "23",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Azərbaycan tarixi",
-                    "point1": "29",
-                    "point2": "32",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "İnformasiya Texnologiyaları I",
-                    "point1": "28",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Xarici dil I",
-                    "point1": "35",
-                    "point2": "0",
-                    "done": "n"
-                }
-            ]
-        },
-        {
-            "id": 9,
-            "group": "57",
-            "user": "İmaməliyeva Səbinə",
-            "userName": "sabina",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "33",
-                    "point2": "30",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Ofis proqramları",
-                    "point1": "34",
-                    "point2": "40",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Əməliyyat sistemləri",
-                    "point1": "32",
-                    "point2": "39",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Rəqəmsal dövrənin əsasları",
-                    "point1": "34",
-                    "point2": "29",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Azərbaycan tarixi",
-                    "point1": "35",
-                    "point2": "48",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "İnformasiya Texnologiyaları I",
-                    "point1": "35",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Xarici dil I",
-                    "point1": "35",
-                    "point2": "0",
-                    "done": "n"
-                }
-            ]
-        },
-        {
-            "id": 10,
-            "group": "57",
-            "user": "Əsgərova Sərfi",
-            "userName": "serfi.10",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "35",
-                    "point2": "32",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Ofis proqramları",
-                    "point1": "36",
-                    "point2": "46",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Əməliyyat sistemləri",
-                    "point1": "38",
-                    "point2": "33",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Rəqəmsal dövrənin əsasları",
-                    "point1": "37",
-                    "point2": "32",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Azərbaycan tarixi",
-                    "point1": "39",
-                    "point2": "43",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "İnformasiya Texnologiyaları I",
-                    "point1": "37",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Xarici dil I",
-                    "point1": "35",
-                    "point2": "0",
-                    "done": "n"
-                }
-            ]
-        },
-        {
-            "id": 11,
-            "group": "57",
-            "user": "Zairli Murad",
-            "userName": "muradik",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "38",
-                    "point2": "31",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Ofis proqramları",
-                    "point1": "36",
-                    "point2": "45",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Əməliyyat sistemləri",
-                    "point1": "38",
-                    "point2": "33",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Rəqəmsal dövrənin əsasları",
-                    "point1": "40",
-                    "point2": "40",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Azərbaycan tarixi",
-                    "point1": "39",
-                    "point2": "40",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "İnformasiya Texnologiyaları I",
-                    "point1": "36",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Xarici dil I",
-                    "point1": "42",
-                    "point2": "0",
-                    "done": "n"
-                }
-            ]
-        },
-        {
-            "id": 12,
-            "group": "57",
-            "user": "Əliyeva Şəlalə",
-            "userName": "shelale-13",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "33",
-                    "point2": "28",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Ofis proqramları",
-                    "point1": "31",
-                    "point2": "31",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Əməliyyat sistemləri",
-                    "point1": "31",
-                    "point2": "30",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Rəqəmsal dövrənin əsasları",
-                    "point1": "33",
-                    "point2": "18",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Azərbaycan tarixi",
-                    "point1": "36",
-                    "point2": "42",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "İnformasiya Texnologiyaları I",
-                    "point1": "33",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Xarici dil I",
-                    "point1": "34",
-                    "point2": "0",
-                    "done": "n"
-                }
-            ]
-        },
-        {
-            "id": 13,
-            "group": "57",
-            "user": "Cabarov Yusif",
-            "userName": "yusif.10",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "40",
-                    "point2": "26",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Ofis proqramları",
-                    "point1": "39",
-                    "point2": "36",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Əməliyyat sistemləri",
-                    "point1": "38",
-                    "point2": "38",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Rəqəmsal dövrənin əsasları",
-                    "point1": "40",
-                    "point2": "31",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Azərbaycan tarixi",
-                    "point1": "39",
-                    "point2": "40",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "İnformasiya Texnologiyaları I",
-                    "point1": "38",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Xarici dil I",
-                    "point1": "38",
-                    "point2": "0",
-                    "done": "n"
-                }
-            ]
-        },
-        {
-            "id": 14,
-            "group": "57",
-            "user": "Məlikov Oruc",
-            "userName": "ramazan",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "46",
-                    "point2": "46",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Ofis proqramları",
-                    "point1": "46",
-                    "point2": "46",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Əməliyyat sistemləri",
-                    "point1": "46",
-                    "point2": "46",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Rəqəmsal dövrənin əsasları",
-                    "point1": "45",
-                    "point2": "42",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Azərbaycan tarixi",
-                    "point1": "48",
-                    "point2": "45",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "İnformasiya Texnologiyaları I",
-                    "point1": "44",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Xarici dil I",
-                    "point1": "45",
-                    "point2": "0",
-                    "done": "n"
-                }
-            ]
-        },
-        {
-            "id": 15,
-            "group": "57",
-            "user": "Babayev Əli",
-            "userName": "ali78",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "46",
-                    "point2": "39",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Ofis proqramları",
-                    "point1": "48",
-                    "point2": "43",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Əməliyyat sistemləri",
-                    "point1": "46",
-                    "point2": "46",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Rəqəmsal dövrənin əsasları",
-                    "point1": "48",
-                    "point2": "47",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Azərbaycan tarixi",
-                    "point1": "48",
-                    "point2": "45",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "İnformasiya Texnologiyaları I",
-                    "point1": "45",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Xarici dil I",
-                    "point1": "42",
-                    "point2": "0",
-                    "done": "n"
-                }
-            ]
-        },
-        {
-            "id": 16,
-            "group": "57",
-            "user": "Əliyeva Güllalə",
-            "userName": "lale9",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "43",
-                    "point2": "49",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Ofis proqramları",
-                    "point1": "48",
-                    "point2": "49",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Əməliyyat sistemləri",
-                    "point1": "44",
-                    "point2": "48",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Rəqəmsal dövrənin əsasları",
-                    "point1": "48",
-                    "point2": "50",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Azərbaycan tarixi",
-                    "point1": "48",
-                    "point2": "45",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "İnformasiya Texnologiyaları I",
-                    "point1": "46",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Xarici dil I",
-                    "point1": "46",
-                    "point2": "0",
-                    "done": "n"
-                }
-            ]
-        },
-        {
-            "id": 17,
-            "group": "57",
-            "user": "Cabarov Aysel",
-            "userName": "aysel-cabar",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "46",
-                    "point2": "35",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Ofis proqramları",
-                    "point1": "48",
-                    "point2": "47",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Əməliyyat sistemləri",
-                    "point1": "46",
-                    "point2": "45",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Rəqəmsal dövrənin əsasları",
-                    "point1": "41",
-                    "point2": "41",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Azərbaycan tarixi",
-                    "point1": "48",
-                    "point2": "46",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "İnformasiya Texnologiyaları I",
-                    "point1": "46",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Xarici dil I",
-                    "point1": "44",
-                    "point2": "0",
-                    "done": "n"
-                }
-            ]
-        },
-        {
-            "id": 18,
-            "group": "57",
-            "user": "Haşımova Nəcibə",
-            "userName": "necibe-88",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "50",
-                    "point2": "50",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Ofis proqramları",
-                    "point1": "47",
-                    "point2": "48",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Əməliyyat sistemləri",
-                    "point1": "49",
-                    "point2": "48",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Rəqəmsal dövrənin əsasları",
-                    "point1": "50",
-                    "point2": "50",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Azərbaycan tarixi",
-                    "point1": "48",
-                    "point2": "44",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "İnformasiya Texnologiyaları I",
-                    "point1": "45",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Xarici dil I",
-                    "point1": "49",
-                    "point2": "0",
-                    "done": "n"
-                }
-            ]
-        },
-        {
-            "id": 19,
-            "group": "57",
-            "user": "Şirəliyev Hüseyn",
-            "userName": "husso",
-            "moduls": [
-                {
-                    "id": 1,
-                    "name": "Proqramlaşdırmanın əsasları",
-                    "point1": "44",
-                    "point2": "38",
-                    "done": "y"
-                },
-                {
-                    "id": 2,
-                    "name": "Ofis proqramları",
-                    "point1": "46",
-                    "point2": "46",
-                    "done": "y"
-                },
-                {
-                    "id": 3,
-                    "name": "Əməliyyat sistemləri",
-                    "point1": "45",
-                    "point2": "46",
-                    "done": "y"
-                },
-                {
-                    "id": 4,
-                    "name": "Rəqəmsal dövrənin əsasları",
-                    "point1": "45",
-                    "point2": "43",
-                    "done": "y"
-                },
-                {
-                    "id": 5,
-                    "name": "Azərbaycan tarixi",
-                    "point1": "48",
-                    "point2": "44",
-                    "done": "y"
-                },
-                {
-                    "id": 6,
-                    "name": "İnformasiya Texnologiyaları I",
-                    "point1": "41",
-                    "point2": "0",
-                    "done": "n"
-                },
-                {
-                    "id": 7,
-                    "name": "Xarici dil I",
-                    "point1": "44",
-                    "point2": "0",
-                    "done": "n"
-                }
-            ]
-        }
-    ],
-    "group54": [
+  "group30": [
     {
       "id": 1,
-      "group": "54",
-      "user": "Banu Qarazade",
-      "userName": "kod-1",
+      "group": "30",
+      "user": "Fuad Mikayılov",
+      "userName": "fuad-veb-3",
       "moduls": [
         {
           "id": 1,
-          "name": "Fen Adi 1",
+          "name": "HTML",
+          "point1": "50",
+          "point2": "48",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Javascript",
+          "point1": "50",
+          "point2": "48",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Java Proqramlaşdırma dili I",
+          "point1": "50",
+          "point2": "48",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Kompüter Təhlükəsizliyi",
+          "point1": "48",
+          "point2": "48",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Photoshop",
+          "point1": "49",
+          "point2": "50",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Xarici dil III",
+          "point1": "43",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Estetika və Etika",
+          "point1": "47",
+          "point2": "48",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "İnformasiya Texnologiyaları III",
+          "point1": "48",
+          "point2": "44",
+          "done": "y"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "group": "30",
+      "user": "Şükür Şükürov",
+      "userName": "şukur-car",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "point1": "50",
+          "point2": "47",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Javascript",
           "point1": "45",
           "point2": "40",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Java Proqramlaşdırma dili I",
+          "point1": "46",
+          "point2": "43",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Kompüter Təhlükəsizliyi",
+          "point1": "45",
+          "point2": "43",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Photoshop",
+          "point1": "49",
+          "point2": "49",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Xarici dil III",
+          "point1": "43",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Estetika və Etika",
+          "point1": "43",
+          "point2": "48",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "İnformasiya Texnologiyaları III",
+          "point1": "46",
+          "point2": "39",
+          "done": "y"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "group": "30",
+      "user": "İbrahim Yusifov",
+      "userName": "ibo-10",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "point1": "48",
+          "point2": "50",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Javascript",
+          "point1": "45",
+          "point2": "40",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Java Proqramlaşdırma dili I",
+          "point1": "46",
+          "point2": "41",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Kompüter Təhlükəsizliyi",
+          "point1": "45",
+          "point2": "46",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Photoshop",
+          "point1": "49",
+          "point2": "49",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Xarici dil III",
+          "point1": "46",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Estetika və Etika",
+          "point1": "45",
+          "point2": "47",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "İnformasiya Texnologiyaları III",
+          "point1": "46",
+          "point2": "45",
+          "done": "n"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "group": "30",
+      "user": "Leyla Əliyeva",
+      "userName": "leylo",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "point1": "44",
+          "point2": "35",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Javascript",
+          "point1": "38",
+          "point2": "31",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Java Proqramlaşdırma dili I",
+          "point1": "38",
+          "point2": "31",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Kompüter Təhlükəsizliyi",
+          "point1": "44",
+          "point2": "35",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Photoshop",
+          "point1": "44",
+          "point2": "42",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Xarici dil III",
+          "point1": "47",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Estetika və Etika",
+          "point1": "47",
+          "point2": "40",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "İnformasiya Texnologiyaları III",
+          "point1": "36",
+          "point2": "37",
+          "done": "y"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "group": "30",
+      "user": "Nəzrin Məlikova",
+      "userName": "NM",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "point1": "33",
+          "point2": "30",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Javascript",
+          "point1": "32",
+          "point2": "19",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Java Proqramlaşdırma dili I",
+          "point1": "30",
+          "point2": "25",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Kompüter Təhlükəsizliyi",
+          "point1": "30",
+          "point2": "26",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Photoshop",
+          "point1": "31",
+          "point2": "26",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Xarici dil III",
+          "point1": "34",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Estetika və Etika",
+          "point1": "34",
+          "point2": "37",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "İnformasiya Texnologiyaları III",
+          "point1": "38",
+          "point2": "27",
+          "done": "y"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "group": "30",
+      "user": "Kəmaləddin Zeynalzadə",
+      "userName": "kamuçka",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "point1": "32",
+          "point2": "25",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Javascript",
+          "point1": "32",
+          "point2": "19",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Java Proqramlaşdırma dili I",
+          "point1": "31",
+          "point2": "21",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Kompüter Təhlükəsizliyi",
+          "point1": "31",
+          "point2": "24",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Photoshop",
+          "point1": "32",
+          "point2": "20",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Xarici dil III",
+          "point1": "27",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Estetika və Etika",
+          "point1": "31",
+          "point2": "29",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "İnformasiya Texnologiyaları III",
+          "point1": "26",
+          "point2": "26",
+          "done": "y"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "group": "30",
+      "user": "Esmira Rzayeva",
+      "userName": "esmira-06",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "point1": "42",
+          "point2": "30",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Javascript",
+          "point1": "35",
+          "point2": "36",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Java Proqramlaşdırma dili I",
+          "point1": "34",
+          "point2": "37",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Kompüter Təhlükəsizliyi",
+          "point1": "35",
+          "point2": "25",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Photoshop",
+          "point1": "43",
+          "point2": "40",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Xarici dil III",
+          "point1": "39",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Estetika və Etika",
+          "point1": "44",
+          "point2": "44",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "İnformasiya Texnologiyaları III",
+          "point1": "43",
+          "point2": "40",
+          "done": "y"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "group": "30",
+      "user": "Fərid Hüseynli",
+      "userName": "hsynv",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "point1": "35",
+          "point2": "29",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Javascript",
+          "point1": "34",
+          "point2": "34",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Java Proqramlaşdırma dili I",
+          "point1": "35",
+          "point2": "37",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Kompüter Təhlükəsizliyi",
+          "point1": "36",
+          "point2": "33",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Photoshop",
+          "point1": "36",
+          "point2": "37",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Xarici dil III",
+          "point1": "38",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Estetika və Etika",
+          "point1": "38",
+          "point2": "44",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "İnformasiya Texnologiyaları III",
+          "point1": "33",
+          "point2": "31",
+          "done": "y"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "group": "30",
+      "user": "Abbasov Ərhan",
+      "userName": "əkkuş",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "point1": "31",
+          "point2": "25",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Javascript",
+          "point1": "32",
+          "point2": "29",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Java Proqramlaşdırma dili I",
+          "point1": "33",
+          "point2": "27",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Kompüter Təhlükəsizliyi",
+          "point1": "33",
+          "point2": "24",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Photoshop",
+          "point1": "34",
+          "point2": "37",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Xarici dil III",
+          "point1": "35",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Estetika və Etika",
+          "point1": "35",
+          "point2": "34",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "İnformasiya Texnologiyaları III",
+          "point1": "28",
+          "point2": "24",
+          "done": "y"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "group": "30",
+      "user": "Mamedov Nurlan",
+      "userName": "nurlan",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "point1": "45",
+          "point2": "33",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Javascript",
+          "point1": "38",
+          "point2": "29",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Java Proqramlaşdırma dili I",
+          "point1": "45",
+          "point2": "42",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Kompüter Təhlükəsizliyi",
+          "point1": "37",
+          "point2": "40",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Photoshop",
+          "point1": "39",
+          "point2": "44",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Xarici dil III",
+          "point1": "44",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Estetika və Etika",
+          "point1": "46",
+          "point2": "43",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "İnformasiya Texnologiyaları III",
+          "point1": "44",
+          "point2": "31",
+          "done": "y"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "group": "30",
+      "user": "Əlixanova Fatima",
+      "userName": "fatima-t1",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "point1": "35",
+          "point2": "31",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Javascript",
+          "point1": "36",
+          "point2": "24",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Java Proqramlaşdırma dili I",
+          "point1": "36",
+          "point2": "32",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Kompüter Təhlükəsizliyi",
+          "point1": "33",
+          "point2": "28",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Photoshop",
+          "point1": "35",
+          "point2": "38",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Xarici dil III",
+          "point1": "40",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Estetika və Etika",
+          "point1": "40",
+          "point2": "46",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "İnformasiya Texnologiyaları III",
+          "point1": "39",
+          "point2": "33",
+          "done": "y"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "group": "30",
+      "user": "Əlixanova Zəhra",
+      "userName": "zehra-12",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "point1": "32",
+          "point2": "32",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Javascript",
+          "point1": "32",
+          "point2": "21",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Java Proqramlaşdırma dili I",
+          "point1": "33",
+          "point2": "27",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Kompüter Təhlükəsizliyi",
+          "point1": "34",
+          "point2": "23",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Photoshop",
+          "point1": "33",
+          "point2": "35",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Xarici dil III",
+          "point1": "37",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Estetika və Etika",
+          "point1": "37",
+          "point2": "42",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "İnformasiya Texnologiyaları III",
+          "point1": "37",
+          "point2": "30",
+          "done": "y"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "group": "30",
+      "user": "Elton Cabbarov",
+      "userName": "ton31",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "point1": "36",
+          "point2": "39",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Javascript",
+          "point1": "38",
+          "point2": "33",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Java Proqramlaşdırma dili I",
+          "point1": "37",
+          "point2": "37",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Kompüter Təhlükəsizliyi",
+          "point1": "37",
+          "point2": "38",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Photoshop",
+          "point1": "36",
+          "point2": "39",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Xarici dil III",
+          "point1": "37",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Estetika və Etika",
+          "point1": "41",
+          "point2": "47",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "İnformasiya Texnologiyaları III",
+          "point1": "41",
+          "point2": "37",
+          "done": "y"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "group": "30",
+      "user": "Rzazadə Fərrux",
+      "userName": "ferrux-99",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "point1": "44",
+          "point2": "39",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Javascript",
+          "point1": "44",
+          "point2": "40",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Java Proqramlaşdırma dili I",
+          "point1": "45",
+          "point2": "42",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Kompüter Təhlükəsizliyi",
+          "point1": "46",
+          "point2": "41",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Photoshop",
+          "point1": "43",
+          "point2": "41",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Xarici dil III",
+          "point1": "42",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Estetika və Etika",
+          "point1": "46",
+          "point2": "42",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "İnformasiya Texnologiyaları III",
+          "point1": "43",
+          "point2": "35",
+          "done": "y"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "group": "30",
+      "user": "Kazımzadə Zəhra",
+      "userName": "k.zehra1",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "point1": "37",
+          "point2": "43",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Javascript",
+          "point1": "39",
+          "point2": "28",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Java Proqramlaşdırma dili I",
+          "point1": "38",
+          "point2": "31",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Kompüter Təhlükəsizliyi",
+          "point1": "39",
+          "point2": "34",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Photoshop",
+          "point1": "37",
+          "point2": "45",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Xarici dil III",
+          "point1": "46",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Estetika və Etika",
+          "point1": "45",
+          "point2": "39",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "İnformasiya Texnologiyaları III",
+          "point1": "40",
+          "point2": "35",
+          "done": "y"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "group": "30",
+      "user": "Məmmədova Sevinc",
+      "userName": "sevinc-m-12",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "point1": "32",
+          "point2": "27",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Javascript",
+          "point1": "32",
+          "point2": "21",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Java Proqramlaşdırma dili I",
+          "point1": "32",
+          "point2": "30",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Kompüter Təhlükəsizliyi",
+          "point1": "33",
+          "point2": "23",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Photoshop",
+          "point1": "34",
+          "point2": "35",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Xarici dil III",
+          "point1": "38",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Estetika və Etika",
+          "point1": "36",
+          "point2": "47",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "İnformasiya Texnologiyaları III",
+          "point1": "34",
+          "point2": "34",
+          "done": "y"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "group": "30",
+      "user": "Qafarov Hüseyn",
+      "userName": "huseyn.9",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "point1": "41",
+          "point2": "38",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Javascript",
+          "point1": "32",
+          "point2": "22",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Java Proqramlaşdırma dili I",
+          "point1": "34",
+          "point2": "35",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Kompüter Təhlükəsizliyi",
+          "point1": "35",
+          "point2": "26",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Photoshop",
+          "point1": "42",
+          "point2": "44",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Xarici dil III",
+          "point1": "34",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Estetika və Etika",
+          "point1": "34",
+          "point2": "27",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "İnformasiya Texnologiyaları III",
+          "point1": "36",
+          "point2": "36",
+          "done": "y"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "group": "30",
+      "user": "Şirinli Tahir",
+      "userName": "tahir.10",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "point1": "31",
+          "point2": "28",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Javascript",
+          "point1": "32",
+          "point2": "19",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Java Proqramlaşdırma dili I",
+          "point1": "31",
+          "point2": "20",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Kompüter Təhlükəsizliyi",
+          "point1": "30",
+          "point2": "24",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Photoshop",
+          "point1": "33",
+          "point2": "18",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Xarici dil III",
+          "point1": "31",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Estetika və Etika",
+          "point1": "31",
+          "point2": "35",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "İnformasiya Texnologiyaları III",
+          "point1": "28",
+          "point2": "30",
+          "done": "y"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "group": "30",
+      "user": "Eminov Həmid",
+      "userName": "h-eminov",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "HTML",
+          "point1": "31",
+          "point2": "20",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Javascript",
+          "point1": "32",
+          "point2": "19",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Java Proqramlaşdırma dili I",
+          "point1": "31",
+          "point2": "20",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Kompüter Təhlükəsizliyi",
+          "point1": "30",
+          "point2": "21",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Photoshop",
+          "point1": "33",
+          "point2": "18",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "Xarici dil III",
+          "point1": "31",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Estetika və Etika",
+          "point1": "31",
+          "point2": "34",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "İnformasiya Texnologiyaları III",
+          "point1": "31",
+          "point2": "27",
+          "done": "y"
+        }
+      ]
+    }
+  ],
+  "group57": [
+    {
+      "id": 1,
+      "group": "57",
+      "user": "Aslanov İnal",
+      "userName": "inal-1",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Proqramlaşdırmanın əsasları",
+          "point1": "26",
+          "point2": "25",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Ofis proqramları",
+          "point1": "23",
+          "point2": "28",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Əməliyyat sistemləri",
+          "point1": "24",
+          "point2": "28",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Rəqəmsal dövrənin əsasları",
+          "point1": "23",
+          "point2": "0",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Azərbaycan tarixi",
+          "point1": "25",
+          "point2": "32",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "İnformasiya Texnologiyaları I",
+          "point1": "28",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Xarici dil I",
+          "point1": "26",
+          "point2": "0",
+          "done": "n"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "group": "57",
+      "user": "Hacızadə Adil",
+      "userName": "adil-12",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Proqramlaşdırmanın əsasları",
+          "point1": "26",
+          "point2": "10",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Ofis proqramları",
+          "point1": "26",
+          "point2": "25",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Əməliyyat sistemləri",
+          "point1": "27",
+          "point2": "30",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Rəqəmsal dövrənin əsasları",
+          "point1": "27",
+          "point2": "24",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Azərbaycan tarixi",
+          "point1": "27",
+          "point2": "30",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "İnformasiya Texnologiyaları I",
+          "point1": "29",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Xarici dil I",
+          "point1": "25",
+          "point2": "0",
+          "done": "n"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "group": "57",
+      "user": "Əsədov Altay",
+      "userName": "altay-6",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Proqramlaşdırmanın əsasları",
+          "point1": "25",
+          "point2": "26",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Ofis proqramları",
+          "point1": "25",
+          "point2": "25",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Əməliyyat sistemləri",
+          "point1": "24",
+          "point2": "27",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Rəqəmsal dövrənin əsasları",
+          "point1": "23",
+          "point2": "0",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Azərbaycan tarixi",
+          "point1": "25",
+          "point2": "38",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "İnformasiya Texnologiyaları I",
+          "point1": "26",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Xarici dil I",
+          "point1": "25",
+          "point2": "0",
+          "done": "n"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "group": "57",
+      "user": "Əşrəfov Məhəmməd",
+      "userName": "əşrəfov-1",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Proqramlaşdırmanın əsasları",
+          "point1": "25",
+          "point2": "0",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Ofis proqramları",
+          "point1": "23",
+          "point2": "33",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Əməliyyat sistemləri",
+          "point1": "24",
+          "point2": "30",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Rəqəmsal dövrənin əsasları",
+          "point1": "23",
+          "point2": "28",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Azərbaycan tarixi",
+          "point1": "25",
+          "point2": "31",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "İnformasiya Texnologiyaları I",
+          "point1": "33",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Xarici dil I",
+          "point1": "30",
+          "point2": "0",
+          "done": "n"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "group": "57",
+      "user": "Rəhimli Əlisadir",
+      "userName": "sadir",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Proqramlaşdırmanın əsasları",
+          "point1": "31",
+          "point2": "28",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Ofis proqramları",
+          "point1": "33",
+          "point2": "29",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Əməliyyat sistemləri",
+          "point1": "32",
+          "point2": "35",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Rəqəmsal dövrənin əsasları",
+          "point1": "33",
+          "point2": "23",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Azərbaycan tarixi",
+          "point1": "34",
+          "point2": "39",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "İnformasiya Texnologiyaları I",
+          "point1": "26",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Xarici dil I",
+          "point1": "29",
+          "point2": "0",
+          "done": "n"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "group": "57",
+      "user": "Qurbanov Fateh",
+      "userName": "fateh-12",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Proqramlaşdırmanın əsasları",
+          "point1": "33",
+          "point2": "23",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Ofis proqramları",
+          "point1": "31",
+          "point2": "38",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Əməliyyat sistemləri",
+          "point1": "32",
+          "point2": "35",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Rəqəmsal dövrənin əsasları",
+          "point1": "33",
+          "point2": "19",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Azərbaycan tarixi",
+          "point1": "35",
+          "point2": "36",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "İnformasiya Texnologiyaları I",
+          "point1": "31",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Xarici dil I",
+          "point1": "36",
+          "point2": "0",
+          "done": "n"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "group": "57",
+      "user": "Məmmədzadə Gövhər",
+      "userName": "gohu-9",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Proqramlaşdırmanın əsasları",
+          "point1": "28",
+          "point2": "23",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Ofis proqramları",
+          "point1": "27",
+          "point2": "32",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Əməliyyat sistemləri",
+          "point1": "29",
+          "point2": "32",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Rəqəmsal dövrənin əsasları",
+          "point1": "28",
+          "point2": "0",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Azərbaycan tarixi",
+          "point1": "29",
+          "point2": "30",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "İnformasiya Texnologiyaları I",
+          "point1": "30",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Xarici dil I",
+          "point1": "43",
+          "point2": "0",
+          "done": "n"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "group": "57",
+      "user": "Məmmədova Nailə",
+      "userName": "naile-1",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Proqramlaşdırmanın əsasları",
+          "point1": "28",
+          "point2": "7",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Ofis proqramları",
+          "point1": "27",
+          "point2": "44",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Əməliyyat sistemləri",
+          "point1": "29",
+          "point2": "30",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Rəqəmsal dövrənin əsasları",
+          "point1": "28",
+          "point2": "23",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Azərbaycan tarixi",
+          "point1": "29",
+          "point2": "32",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "İnformasiya Texnologiyaları I",
+          "point1": "28",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Xarici dil I",
+          "point1": "35",
+          "point2": "0",
+          "done": "n"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "group": "57",
+      "user": "İmaməliyeva Səbinə",
+      "userName": "sabina",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Proqramlaşdırmanın əsasları",
+          "point1": "33",
+          "point2": "30",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Ofis proqramları",
+          "point1": "34",
+          "point2": "40",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Əməliyyat sistemləri",
+          "point1": "32",
+          "point2": "39",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Rəqəmsal dövrənin əsasları",
+          "point1": "34",
+          "point2": "29",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Azərbaycan tarixi",
+          "point1": "35",
+          "point2": "48",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "İnformasiya Texnologiyaları I",
+          "point1": "35",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Xarici dil I",
+          "point1": "35",
+          "point2": "0",
+          "done": "n"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "group": "57",
+      "user": "Əsgərova Sərfi",
+      "userName": "serfi.10",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Proqramlaşdırmanın əsasları",
+          "point1": "35",
+          "point2": "32",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Ofis proqramları",
+          "point1": "36",
+          "point2": "46",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Əməliyyat sistemləri",
+          "point1": "38",
+          "point2": "33",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Rəqəmsal dövrənin əsasları",
+          "point1": "37",
+          "point2": "32",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Azərbaycan tarixi",
+          "point1": "39",
+          "point2": "43",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "İnformasiya Texnologiyaları I",
+          "point1": "37",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Xarici dil I",
+          "point1": "35",
+          "point2": "0",
+          "done": "n"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "group": "57",
+      "user": "Zairli Murad",
+      "userName": "muradik",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Proqramlaşdırmanın əsasları",
+          "point1": "38",
+          "point2": "31",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Ofis proqramları",
+          "point1": "36",
+          "point2": "45",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Əməliyyat sistemləri",
+          "point1": "38",
+          "point2": "33",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Rəqəmsal dövrənin əsasları",
+          "point1": "40",
+          "point2": "40",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Azərbaycan tarixi",
+          "point1": "39",
+          "point2": "40",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "İnformasiya Texnologiyaları I",
+          "point1": "36",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Xarici dil I",
+          "point1": "42",
+          "point2": "0",
+          "done": "n"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "group": "57",
+      "user": "Əliyeva Şəlalə",
+      "userName": "shelale-13",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Proqramlaşdırmanın əsasları",
+          "point1": "33",
+          "point2": "28",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Ofis proqramları",
+          "point1": "31",
+          "point2": "31",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Əməliyyat sistemləri",
+          "point1": "31",
+          "point2": "30",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Rəqəmsal dövrənin əsasları",
+          "point1": "33",
+          "point2": "18",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Azərbaycan tarixi",
+          "point1": "36",
+          "point2": "42",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "İnformasiya Texnologiyaları I",
+          "point1": "33",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Xarici dil I",
+          "point1": "34",
+          "point2": "0",
+          "done": "n"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "group": "57",
+      "user": "Cabarov Yusif",
+      "userName": "yusif.10",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Proqramlaşdırmanın əsasları",
+          "point1": "40",
+          "point2": "26",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Ofis proqramları",
+          "point1": "39",
+          "point2": "36",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Əməliyyat sistemləri",
+          "point1": "38",
+          "point2": "38",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Rəqəmsal dövrənin əsasları",
+          "point1": "40",
+          "point2": "31",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Azərbaycan tarixi",
+          "point1": "39",
+          "point2": "40",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "İnformasiya Texnologiyaları I",
+          "point1": "38",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Xarici dil I",
+          "point1": "38",
+          "point2": "0",
+          "done": "n"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "group": "57",
+      "user": "Məlikov Oruc",
+      "userName": "ramazan",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Proqramlaşdırmanın əsasları",
+          "point1": "46",
+          "point2": "46",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Ofis proqramları",
+          "point1": "46",
+          "point2": "46",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Əməliyyat sistemləri",
+          "point1": "46",
+          "point2": "46",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Rəqəmsal dövrənin əsasları",
+          "point1": "45",
+          "point2": "42",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Azərbaycan tarixi",
+          "point1": "48",
+          "point2": "45",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "İnformasiya Texnologiyaları I",
+          "point1": "44",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Xarici dil I",
+          "point1": "45",
+          "point2": "0",
+          "done": "n"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "group": "57",
+      "user": "Babayev Əli",
+      "userName": "ali78",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Proqramlaşdırmanın əsasları",
+          "point1": "46",
+          "point2": "39",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Ofis proqramları",
+          "point1": "48",
+          "point2": "43",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Əməliyyat sistemləri",
+          "point1": "46",
+          "point2": "46",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Rəqəmsal dövrənin əsasları",
+          "point1": "48",
+          "point2": "47",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Azərbaycan tarixi",
+          "point1": "48",
+          "point2": "45",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "İnformasiya Texnologiyaları I",
+          "point1": "45",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Xarici dil I",
+          "point1": "42",
+          "point2": "0",
+          "done": "n"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "group": "57",
+      "user": "Əliyeva Güllalə",
+      "userName": "lale9",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Proqramlaşdırmanın əsasları",
+          "point1": "43",
+          "point2": "49",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Ofis proqramları",
+          "point1": "48",
+          "point2": "49",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Əməliyyat sistemləri",
+          "point1": "44",
+          "point2": "48",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Rəqəmsal dövrənin əsasları",
+          "point1": "48",
+          "point2": "50",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Azərbaycan tarixi",
+          "point1": "48",
+          "point2": "45",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "İnformasiya Texnologiyaları I",
+          "point1": "46",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Xarici dil I",
+          "point1": "46",
+          "point2": "0",
+          "done": "n"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "group": "57",
+      "user": "Cabarov Aysel",
+      "userName": "aysel-cabar",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Proqramlaşdırmanın əsasları",
+          "point1": "46",
+          "point2": "35",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Ofis proqramları",
+          "point1": "48",
+          "point2": "47",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Əməliyyat sistemləri",
+          "point1": "46",
+          "point2": "45",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Rəqəmsal dövrənin əsasları",
+          "point1": "41",
+          "point2": "41",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Azərbaycan tarixi",
+          "point1": "48",
+          "point2": "46",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "İnformasiya Texnologiyaları I",
+          "point1": "46",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Xarici dil I",
+          "point1": "44",
+          "point2": "0",
+          "done": "n"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "group": "57",
+      "user": "Haşımova Nəcibə",
+      "userName": "necibe-88",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Proqramlaşdırmanın əsasları",
+          "point1": "50",
+          "point2": "50",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Ofis proqramları",
+          "point1": "47",
+          "point2": "48",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Əməliyyat sistemləri",
+          "point1": "49",
+          "point2": "48",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Rəqəmsal dövrənin əsasları",
+          "point1": "50",
+          "point2": "50",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Azərbaycan tarixi",
+          "point1": "48",
+          "point2": "44",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "İnformasiya Texnologiyaları I",
+          "point1": "45",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Xarici dil I",
+          "point1": "49",
+          "point2": "0",
+          "done": "n"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "group": "57",
+      "user": "Şirəliyev Hüseyn",
+      "userName": "husso",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Proqramlaşdırmanın əsasları",
+          "point1": "44",
+          "point2": "38",
+          "done": "y"
+        },
+        {
+          "id": 2,
+          "name": "Ofis proqramları",
+          "point1": "46",
+          "point2": "46",
+          "done": "y"
+        },
+        {
+          "id": 3,
+          "name": "Əməliyyat sistemləri",
+          "point1": "45",
+          "point2": "46",
+          "done": "y"
+        },
+        {
+          "id": 4,
+          "name": "Rəqəmsal dövrənin əsasları",
+          "point1": "45",
+          "point2": "43",
+          "done": "y"
+        },
+        {
+          "id": 5,
+          "name": "Azərbaycan tarixi",
+          "point1": "48",
+          "point2": "44",
+          "done": "y"
+        },
+        {
+          "id": 6,
+          "name": "İnformasiya Texnologiyaları I",
+          "point1": "41",
+          "point2": "0",
+          "done": "n"
+        },
+        {
+          "id": 7,
+          "name": "Xarici dil I",
+          "point1": "44",
+          "point2": "0",
+          "done": "n"
+        }
+      ]
+    }
+  ],
+
+  "group54": [
+    {
+      "id": 1,
+      "group": "54",
+      "user": "Elxan Allahverdiyev",
+      "userName": "a.elxan",
+      "moduls": [
+        {
+          "id": 1,
+          "name": "Azərbaycan Tarixi",
+          "point1": "0",
+          "point2": "51",
           "done": "y"
         },
 
         {
           "id": 2,
-          "name": "Fen Adi 2",
-          "point1": "1",
-          "point2": "2",
+          "name": "Az Dilinde İşguza Akademik Kom.",
+          "point1": "0",
+          "point2": "51",
           "done": "y"
         },
 
         {
           "id": 3,
-          "name": "Fen Adi 3",
-          "point1": "1",
-          "point2": "2",
+          "name": "Informasiya Texnalogiyalari",
+          "point1": "0",
+          "point2": "55",
           "done": "y"
         },
         {
           "id": 4,
-          "name": "Fen Adi 4",
-          "point1": "1",
-          "point2": "2",
+          "name": "Texniki Hesab",
+          "point1": "0",
+          "point2": "45",
           "done": "y"
         },
         {
           "id": 5,
-          "name": "Fen Adi 5",
-          "point1": "1",
-          "point2": "2",
+          "name": "Xarici Dilde Isguzar Kom.",
+          "point1": "0",
+          "point2": "51",
           "done": "y"
         },
         {
           "id": 6,
-          "name": "Fen Adi 6",
-          "point1": "1",
-          "point2": "2",
+          "name": "Kompyuter Emeliyyat Sistemleri",
+          "point1": "0",
+          "point2": "51",
           "done": "y"
         },
         {
           "id": 7,
-          "name": "Fen Adi 7",
-          "point1": "1",
-          "point2": "2",
+          "name": "Kompyuter Qrafikasi",
+          "point1": "0",
+          "point2": "51",
+          "done": "y"
+        },
+        {
+          "id": 8,
+          "name": "Dizayna Giris",
+          "point1": "0",
+          "point2": "26",
+          "done": "y"
+        },
+        {
+          "id": 9,
+          "name": "Photoshop",
+          "point1": "0",
+          "point2": "45",
           "done": "y"
         }
       ]
